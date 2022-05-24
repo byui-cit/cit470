@@ -14,7 +14,8 @@ Create and maintain a professional-quality network diagram that documents your t
 
 *(Optional)* You may also use workstation software to create a network diagram. Examples:
 - Microsoft Visio. This is the premier diagramming tool used by industry network and security professionals.
-It's a little challenging to learn, and it is expensive, but BYU-Idaho students may obtain a copy of Visio software at no cost:
+It's a little challenging to learn, so Visio proficiency looks attractive on a job-seeker's résumé.
+It is also expensive, but BYU-Idaho students may obtain a copy of Visio software at no cost:
   - visit [Microsoft Azure Dev Tools for Teaching](https://azureforeducation.microsoft.com/devtools),
   - sign in with BYU-Idaho credentials,
   - select "Software" from the menu at the left of the Azure Education web page,
