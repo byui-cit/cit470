@@ -50,5 +50,5 @@ Your firewalls will enforce network security policies for various endpoint machi
   - *Layer 7 information: application identifiers*
 
 ### Examples:
-Here are some example diagrams created using the tools mentioned above.
+Here are some example diagrams that were created using the tools mentioned above.
 # TBD
