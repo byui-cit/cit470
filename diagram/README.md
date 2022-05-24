@@ -19,7 +19,7 @@ It's a little challenging to learn, and it is expensive, but BYU-Idaho students 
   - sign in with BYU-Idaho credentials,
   - select "Software" from the menu at the left of the Azure Education web page,
   - select one of the available editions of Visio Professional,
-  - click **Download** to download the installer and **View Key** to obtain your product license activation key.
+  - click **[Download]** to download the installer and **[View Key]** to obtain your product license activation key.
 - [yEd](https://www.yworks.com/products/yed) (free download)
 - [Dia](https://wiki.gnome.org/Apps/Dia) (free download)
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle). (This tool is for MacOS users only, and is pretty expensive, but has wide use among IT Professionals.)
