@@ -35,7 +35,7 @@ Please don't use any of these for this task.
   - **"inside"** (*ordinary trust* - assets such as regular user's machines will be deployed here)
   - **"dmz"** (*semi-trusted* - assets that must be Internet-accessible will be deployed here)
   - **"outside"** (*untrusted* - alas, the rest of the Internet is not yours to create nor control)
-  Specify two firewalls as perimeter devices between your zones:
+- Specify two firewalls as perimeter devices between your zones:
   - an *Internet-facing* firewall that will serve as the default router to the outside zone.
   - a *secure-facing* firewall that will be the default router from the inside zone to the secure zone.
 - Specify at least two computer "end points" in the dmz, two in the inside zone, and two in the secure zone.
