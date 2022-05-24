@@ -22,11 +22,11 @@ It's a little challenging to learn, and it is expensive, but BYU-Idaho students 
   - click **[Download]** to download the installer and **[View Key]** to obtain your product license activation key.
 - [yEd](https://www.yworks.com/products/yed) (free download)
 - [Dia](https://wiki.gnome.org/Apps/Dia) (free download)
-- [OmniGraffle](https://www.omnigroup.com/omnigraffle). (This tool is for MacOS users only, and is pretty expensive, but has wide use among IT Professionals.)
+- [OmniGraffle](https://www.omnigroup.com/omnigraffle). (This tool is for MacOS users only, and is expensive, but has wide use among IT Professionals.)
 
-*(Not Recommended)* It is possible to use general purpose drawing tools such as
-Microsoft Paint, or Inkscape, or Adobe Illustrator, or GIMP, or the "Word Art" features in Microsoft Word/PowerPoint, or Cisco Packet Tracer.
-Please don't use these for this task.
+*(Not Recommended)* It is possible to make network diagrams using general purpose drawing tools such as
+Microsoft Paint, or Inkscape, or Adobe Illustrator, or GIMP, or the "Word Art" features in Microsoft Word/PowerPoint, or printing a Cisco Packet Tracer diagram.
+Please don't use any of these for this task.
 
 ### Requirements:
 - Include four security zones in your network diagram:
