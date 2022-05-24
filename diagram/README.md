@@ -36,7 +36,7 @@ Please don't use any of these for this task.
   - **"dmz"** (*semi-trusted* - assets that must be Internet-accessible will be deployed here)
   - **"outside"** (*untrusted* - alas, the rest of the Internet is not yours to create nor control)
 - Specify two firewalls as perimeter devices between your zones:
-  - an *Internet-facing* firewall that will serve as the default router to the outside zone.
+  - an *Internet-facing* firewall that will serve as the default router to the outside zone from both dmz and inside.
   - a *secure-facing* firewall that will be the default router from the inside zone to the secure zone.
 - Specify at least two computer "end points" in the dmz, two in the inside zone, and two in the secure zone.
 Your firewalls will enforce network security policies for various endpoint machines, such as:
@@ -50,5 +50,5 @@ Your firewalls will enforce network security policies for various endpoint machi
   - *Layer 7 information: application identifiers*
 
 ### Examples:
-Here are some example diagrams that were created using the tools mentioned above.
+Here are some example diagrams that were created using some of the tools mentioned above.
 # TBD
