@@ -10,7 +10,7 @@ Create and maintain a professional-quality network diagram that documents your t
 *(Recommended)* Here are some links to web-based applications students have successfully used to create their diagrams:
 - [Cacoo](https://cacoo.com/)
 - [Lucidchart](https://www.lucidchart.com/pages)
-- [app.diagrams.net](https://app.diagrams.net/)
+- [diagrams.net](https://app.diagrams.net/)
 
 *(Optional)* You may also use workstation software to create a network diagram. Examples:
 - Microsoft Visio. This is the premier diagramming tool used by industry network and security professionals.
