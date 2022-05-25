@@ -27,7 +27,7 @@ Microsoft OneDrive or Google Drive,
 and shared to all team members, so that all can access it with their own copy of KeePass software.)
 
 In each of your zones (secure,inside,DMZ) deploy a Windows Server and a Linux server, for a total of six servers.
-*(This is a good starting point, but you may need to deploy additional servers for future assignments)*
+*(This is a good starting point, but you may need to deploy additional servers in future assignments)*
 
 Choose an appropriate password for the Administrator or root account on each server.
 (Of course, don't use a weak easily-guessable password like "password" or "123456."
