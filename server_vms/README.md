@@ -47,6 +47,6 @@ Verify that each pair of servers in each zone can ping each other.
 (*Hint:* a Windows Server will not respond to ICMP echo request "pings" by default.
 You will need to enable an inbound rule in Windows Defender Firewall with Advanced Security to let this happen.)
 
-Make sure each server is renamed to match the VMs name, according to your team's machine naming convention.
+Make sure each server is renamed to match its VM name, according to your team's machine naming convention.
 (By default, your Windows Servers are assigned a random hostname such as WIN-A1B2C3D4E5 when they are first deployed,
 so you'll want to change that.)
