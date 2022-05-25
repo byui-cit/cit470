@@ -60,3 +60,6 @@ Example drawn using diagrams.net:
 
 Example drawn using Lucidchart:
 ![Lucidchart example](CIT470-lucid-x.png)
+
+Example drawn using Microsoft Visio:
+![Visio example](CIT470-visio-x.png)
