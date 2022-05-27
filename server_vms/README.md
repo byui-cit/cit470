@@ -5,7 +5,7 @@
 Work with your team to deploy and apply an initial configuration to six virtual servers.
 
 ### Tools
-@@@ TBD
+[CIT department VMware infrastructure](/cit470/courseinfo/vSphere)
 
 ### Requirements
 Agree with your team partner(s) on a naming convention for your servers.
