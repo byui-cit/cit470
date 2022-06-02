@@ -37,6 +37,8 @@ so that you can remotely access and administer your servers across zone boundari
 Configure each sub-interface with its required 802.1q VLAN tag (layer-2 configuration),
 and with its required IPv4 IP address and subnet mask (layer-3 configuration).
   - Also, to assist with troubleshooting, configure each sub-interface so that it will respond to ICMP "pings" (echo requests).
+  - Configure a default route. (The "next hop" should be the outside router's IP address.)
+  - Configure an additional static route to your secure zone. (The "next hop" should be the secure-facing firewall's inside zone IP address.)
   - Configure a "dynamic NAT" policy that translates outbound connections from your DMZ and inside zones
 to the address of the outside interface.
   - Configure a "restrict-secure" policy that disallows hosts in your secure zone from communicating directly to hosts in the outside zone.
@@ -49,6 +51,7 @@ to communicate with any host in the outside zone.
   - Configure an administrator account for each team member.
   - On your team's secure-facing firewall, configure another sub-interface for your team's secure zone,
 configured with its required VLAN tag, IPv4 address/subnet mask, and also configured to respond to ICMP "pings" (echo requests).
+  - Configure a default route on the secure-facing firewall. (The "next hop" should be the inside zone address of your Internet-facing firewall.)
   - Configure policies that allow hosts in your secure zone to use any application protocol to communicate with hosts in your DMZ and inside zone.
   - Configure policies that allow hosts in your inside zone to use SSH or RDP to communicate with hosts in your secure zone.
 - Verify that your DMZ and inside zone hosts can access the Internet and receive OS updates.
