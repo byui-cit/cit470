@@ -49,8 +49,8 @@ to communicate with any host in the outside zone.
   - Configure an administrator account for each team member.
   - On your team's secure-facing firewall, configure another sub-interface for your team's secure zone,
 configured with its required VLAN tag, IPv4 address/subnet mask, and also configured to respond to ICMP "pings" (echo requests).
-    - Configure policies that allow hosts in your secure zone to use any application protocol to communicate with hosts in your DMZ and inside zone.
-    - Configure policies that allow hosts in your inside zone to use SSH or RDP to communicate with hosts in your secure zone.
+  - Configure policies that allow hosts in your secure zone to use any application protocol to communicate with hosts in your DMZ and inside zone.
+  - Configure policies that allow hosts in your inside zone to use SSH or RDP to communicate with hosts in your secure zone.
 - Verify that your DMZ and inside zone hosts can access the Internet and receive OS updates.
 - Verify that your VMs can use SSH and RDP to connect across zone boundaries to other VMs.
 - Verify that your secure zone hosts cannot directly access the Internet.
