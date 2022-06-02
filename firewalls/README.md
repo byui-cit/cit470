@@ -63,6 +63,7 @@ Upload an illustrated tutorial, in which you explain what your team did and how 
 - Your document should be clear enough that one of your peers would be able to follow your instructions and accomplish the same tasks.
 - Identify any difficult or challenging parts of the project, and clearly explain how you diagnosed and overcame your obstacles.
 - Include a few cropped screen captures where appropriate.
+Also upload your updated and annotated network diagram.
 
 ### Scoring Rubric
 - If your tutorial satisfies every requirement outlined above, you will earn a passing score (one point).
