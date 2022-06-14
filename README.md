@@ -1,7 +1,18 @@
-# cit470
-## Systems Security II
+# cit470, Systems Security II
+## Table of Contents
 
-This is unofficial; please consult I-Learn Canvas to see the official course content.
+This table of contents is unofficial; please consult I-Learn Canvas for official course structure and content.
+
+## Outcomes (Course Units)
+
+### Security Zones and Perimiter Devices, a.k.a. Network Segmentation
+1. [Diagram](diagram/)
+2. [Server VMs](server_vms/)
+3. [Firewalls](firewalls/)
+4. [Proxy Services](proxy/)
+5. [Tiered App](tiered_app/)
+
+### 
 
 ### Project milestones
 - Diagram
