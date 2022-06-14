@@ -3,39 +3,48 @@
 
 This table of contents is unofficial; please consult I-Learn Canvas for official course structure and content.
 
-## Outcomes (Course Units)
-
-### Security Zones and Perimiter Devices, a.k.a. Network Segmentation
-1. [Diagram](diagram/)
-2. [Server VMs](server_vms/)
-3. [Firewalls](firewalls/)
-4. [Proxy Services](proxy/)
-5. [Tiered App](tiered_app/)
-
-### 
-
-### Project milestones
-- Diagram
-- Server VMs
-- Firewalls
-- Proxies
-- 3-tier app
-- site-to-site vpn
-- remote access vpn
-- NIDS sensor
-- SNMP poller or netflow sink
-- log manager or SIEM
-- pentest exercise
-
-### Teamwork checkpoints
+### Teamwork "soft skills" checkpoints
 - peer eval 1
 - peer eval 2
 - peer eval 3
 
-### Above-and-beyond opportunities
-- AB 1
-- AB 2
-- AB 3
-- AB 4
-- AB 5
-- AB 6
+## Outcomes (Course Units)
+
+### Architecture: Security Zones and Perimiter Devices, a.k.a. Network Segmentation
+- [Diagram](diagram/)
+- [Server VMs](server_vms/)
+- [Firewalls](firewalls/)
+  - [Above & Beyond Opportunity 1](ab1/)
+  - [Above & Beyond Opportunity 2](ab2/)
+- Peer Evaluation 1
+
+### Availability: Proxies, Firewall Policies, and Load Balancing
+
+- [Proxy Services](proxy/)
+- [Tiered App](tiered_app/)
+  - [Above & Beyond Opportunity 3](ab3/)
+  - [Above & Beyond Opportunity 4](ab4/)
+- Peer Evaluation 2
+
+### Access: VPNs, IAM
+
+- [Site-to-Site IPSec VPN](IPSec_VPN/)
+- [Remote Access VPN](remote_access_vpn/)
+  - [Above & Beyond Opportunity 5](ab5/)
+
+### Intrusion Detection
+
+- [IDS Sensor](ids_sensor/)
+  - [Above & Beyond Opportunity 6](ab6/)
+
+### Monitoring
+
+- [SNMP Network Monitor](SNMP_network_monitor/)
+- [SIEM](siem/)
+  - [Above & Beyond Opportunity 7](ab7/)
+- Peer Evaluation 3
+
+### PTES: Vulnerabilities, Exploits
+
+- [Penetration Testing Exercise](pentest/)
+  - [Above & Beyond Opportunity 8](ab8/)
