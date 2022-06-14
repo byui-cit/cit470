@@ -3,11 +3,6 @@
 
 This table of contents is unofficial; please consult I-Learn Canvas for official course structure and content.
 
-### Teamwork "soft skills" checkpoints
-- peer eval 1
-- peer eval 2
-- peer eval 3
-
 ## Outcomes (Course Units)
 
 ### Architecture: Security Zones and Perimiter Devices, a.k.a. Network Segmentation
@@ -16,7 +11,7 @@ This table of contents is unofficial; please consult I-Learn Canvas for official
 - [Firewalls](firewalls/)
   - [Above & Beyond Opportunity 1](ab1/)
   - [Above & Beyond Opportunity 2](ab2/)
-- Peer Evaluation 1
+- Peer Evaluation 1 (Teamwork "soft skills" checkpoint)
 
 ### Availability: Proxies, Firewall Policies, and Load Balancing
 
@@ -24,7 +19,7 @@ This table of contents is unofficial; please consult I-Learn Canvas for official
 - [Tiered App](tiered_app/)
   - [Above & Beyond Opportunity 3](ab3/)
   - [Above & Beyond Opportunity 4](ab4/)
-- Peer Evaluation 2
+- Peer Evaluation 2 (Teamwork "soft skills" checkpoint)
 
 ### Access: VPNs, IAM
 
@@ -42,7 +37,7 @@ This table of contents is unofficial; please consult I-Learn Canvas for official
 - [SNMP Network Monitor](SNMP_network_monitor/)
 - [SIEM](siem/)
   - [Above & Beyond Opportunity 7](ab7/)
-- Peer Evaluation 3
+- Peer Evaluation 3 (Teamwork "soft skills" checkpoint)
 
 ### PTES: Vulnerabilities, Exploits
 
