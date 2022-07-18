@@ -54,9 +54,13 @@ Upload an illustrated tutorial, in which you explain what you did and how you ac
 Your must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
 ### Hints
-- A fresh install of GNS3 already includes several switch and endpoint device node templates, including Ethernet Switch, NAT (cloud), and VPCS.
-  - To download the "webterm" endpoint, select "New template" from the file menu, and choose to install it from the GNS3 server.
-You'll find "webterm" in the list of guest appliances.
-  - To download a "firewall" device, select "New template" from the file menu, and choose to install it from the GNS3 server.
-Suitable free firewall VM options include: IPFire, OPNsense, OpenWrt, pfSense, Untangle NG, or VyOS.
+- A fresh install of GNS3 includes several switch and endpoint device node templates.
+  - Ethernet Switch, NAT (cloud), and VPCS are already available.
+  - The "webterm" endpoint is not available by default.
+To download the webterm template, select "New template" from the file menu, and choose to install from the GNS3 server.
+You'll find it in the list of guest appliances.
+  - No security devices are available by default.
+To download a firewall device, select "New template" from the file menu, and choose to install from the GNS3 server.
+Suitable free security device options include: IPFire, OPNsense, OpenWrt, pfSense, Untangle NG, or VyOS.
 (Most of the rest of the available firewalls and routers listed are commercial VMs that require purchased licenses.)
+Virtual appliances image files for these devices must be downloaded and imported separately.
