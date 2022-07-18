@@ -39,8 +39,8 @@ and an additional static route to the secure zone through the secure-facing fire
   - configure appropriate policy rules on each firewall, such that:
     - the endpoint devices in the **dmz**, **inside**, and **secure** zones can ping each other (using ICMP Ping protocol)
     - the endpoint devices in the **dmz** and **inside** zones can successfully ping Google's public DNS server 8.8.8.8,
-and the webterm in the **inside** zone can access web sites such as www.google.com and www.bing.com
-    - the endpoint device in the secure zone cannot ping or otherwise connect to any Internet host in the **outside** zone.
+and the webterm's browser (**inside** zone) can access web sites (such as Google, or Amazon, or Instagram, etc.)
+- the endpoint device in the secure zone *cannot* ping or otherwise connect to any Internet host in the **outside** zone.
 
 ### Deliverable
 Upload an illustrated tutorial, in which you explain what you did and how you accomplished it.
