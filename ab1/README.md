@@ -14,8 +14,8 @@ There are eight Above-and-beyond opportunities in this course.
   - Oracle VirtualBox
   - VMware Workstation or Fusion
 - GNS3 software components:
-  - The GNS3 application: [https://www.gns3.com/software/download] (https://www.gns3.com/software/download)
-  - The GNS3 VM: [https://www.gns3.com/software/download-vm] (https://www.gns3.com/software/download-vm)
+  - The GNS3 application: [https://www.gns3.com/software/download](https://www.gns3.com/software/download)
+  - The GNS3 VM: [https://www.gns3.com/software/download-vm](https://www.gns3.com/software/download-vm)
 
 ### Requirements
 - Install the GNS3 VM, and verify that it has KVM support available.
