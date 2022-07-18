@@ -8,14 +8,17 @@ Above-and-beyond tasks are projects that individual students may accomplish indi
 There are eight Above-and-beyond opportunities in this course.
 
 ### Tools
+- Sign up for a free gns3.com account: [https://www.gns3.com/account/login](https://www.gns3.com/account/login)
 - A desktop or laptop computer with at least 16GB RAM
-- GNS3 application software, https://www.gns3.com/
-- A Type-II Hypervisor suitable for running the GNS3 VM that accompanies the GNS3 application:
+- A Type-II Hypervisor, suitable to running the GNS3 VM that accompanies the GNS3 application:
   - Oracle VirtualBox
   - VMware Workstation or Fusion
+- GNS3 software components:
+  - The GNS3 application: [https://www.gns3.com/software/download] (https://www.gns3.com/software/download)
+  - The GNS3 VM: [https://www.gns3.com/software/download-vm] (https://www.gns3.com/software/download-vm)
 
 ### Requirements
-
+- Install the GNS3 VM, and verify that it supports KVM 
 
 ### Deliverable
 
