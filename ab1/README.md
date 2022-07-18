@@ -21,8 +21,8 @@ There are eight Above-and-beyond opportunities in this course.
 - Install the GNS3 VM, and verify that it has KVM support available.
 - Install the GNS3 application, and configure it to use the GNS3 VM for appliance images.
 - Create a working mock-up of your network diagram, including the following nodes:
-  - Deploy a "NAT" cloud endpoint node as your **outside** security zone.
-  - Deploy three "Ethernet Switch" nodes, with one of each as the central node of your **dmz**, **inside**, and **secure** zones.
+  - Deploy a "NAT" cloud endpoint device as your **outside** security zone.
+  - Deploy three "Ethernet Switch" devices, with one of each as the central node of your **dmz**, **inside**, and **secure** zones.
   - Deploy an "Internet-facing" firewall node with three connections:
 one to your *outside* NAT node, another to your **dmz** switch node, and the third to your **inside** switch node.
     - configure this firewall to automatically get a DHCP address from the **outside** "NAT" cloud,
@@ -43,7 +43,20 @@ and the webterm in the **inside** zone can access web sites such as www.google.c
     - the endpoint device in the secure zone cannot ping or otherwise connect to any Internet host in the **outside** zone.
 
 ### Deliverable
+Upload an illustrated tutorial, in which you explain what you did and how you accomplished it.
+- your document should be clear enough that one of your peers would be able to follow your instructions and accomplish the same tasks.
+- identify any difficult or challenging parts of the project, and clearly explain how you diagnosed and overcame your obstacles.
+- include a few cropped screen captures where appropriate.
 
 ### Scoring Rubric
+- If your tutorial satisfies every requirement outlined above, you will earn a passing score (one point).
+- If your tutorail does not satisfy any one of the above requirements, you will earn no points.
+Your must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
 ### Hints
+- A fresh install of GNS3 already includes several switch and endpoint device node templates, including Ethernet Switch, NAT (cloud), and VPCS.
+  - To download the "webterm" endpoint, select "New template" from the file menu, and choose to install it from the GNS3 server.
+You'll find "webterm" in the list of guest appliances.
+  - To download a "firewall" device, select "New template" from the file menu, and choose to install it from the GNS3 server.
+Suitable free firewall VM options include: IPFire, OPNsense, OpenWrt, pfSense, Untangle NG, or VyOS.
+(Most of the rest of the available firewalls and routers listed are commercial VMs that require purchased licenses.)
