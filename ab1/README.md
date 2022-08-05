@@ -56,6 +56,7 @@ Your must then address any deficiencies and re-upload corrected documents until 
 ### Hints
 - A fresh install of GNS3 includes several switch and endpoint device node templates.
   - Ethernet Switch, NAT (cloud), and VPCS are already available.
+- Other GNS3 device note templates must be downloaded separately.
   - The "webterm" endpoint is not available by default.
 To download the webterm template, select "New template" from the file menu, and choose to install from the GNS3 server.
 You'll find it in the list of guest appliances.
