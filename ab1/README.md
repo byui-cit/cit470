@@ -50,7 +50,7 @@ Upload an illustrated tutorial, in which you explain what you did and how you ac
 
 ### Scoring Rubric
 - If your tutorial satisfies every requirement outlined above, you will earn a passing score (one point).
-- If your tutorail does not satisfy any one of the above requirements, you will earn no points.
+- If your tutorial does not satisfy any one of the above requirements, you will earn no points.
 Your must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
 ### Hints
