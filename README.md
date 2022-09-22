@@ -1,4 +1,4 @@
-# cit470, Systems Security II
+# CIT470, Systems Security II
 ## Table of Contents
 
 This table of contents is unofficial; please consult I-Learn Canvas for official course structure and content.
