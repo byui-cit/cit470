@@ -19,11 +19,11 @@ to solve two of the problems you encountered while working on any of your other 
 Write your tutorial as if it could be a supplement or appendix to another of your other project task reports.
 Here's an example outline that might be helpful:
 - Identify a network or security problem that, with the help of Wireshark, you were able to troubleshoot and solve.
-- - Show how Wireshark helped you diagnose and fix that problem.
-- - Where appropriate, include a couple of illustrative screen captures of Wireshark in action.
+  - Show how Wireshark helped you diagnose and fix that problem.
+  - Where appropriate, include a couple of illustrative screen captures of Wireshark in action.
 - Identify a network or security problem that, with the help of tcpdump or tshark, you were able to troubleshoot and solve.
-- - Show how the tool helped you diagnose and fix that problem.
-- - Where appropriate, include console text output (or screencaptures) of your command-line tool in action.
+  - Show how the tool helped you diagnose and fix that problem.
+  - Where appropriate, include console text output (or screencaptures) of your command-line tool in action.
 
 ### Deliverable
 Upload an illustrated tutorial, in which you explain what you did and how you accomplished it.
