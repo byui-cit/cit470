@@ -18,11 +18,11 @@ The VMs you deployed to your inside and secure zones.
 - Configure your secure VMs' network interfaces to use your DNS proxy as their primary DNS server.
   - Use the nslookup utility to verify successful DNS resolution.
 - Configure your secure VMs proxy settings to manually relay web traffic through your web proxy.
-  - Use a web browser, or curl or wget utility, to verify successful web traffic relay.
+  - Use a web browser, or command-line utilities such as curl or wget, to verify successful web traffic relay.
 - Configure your secure VMs management-level web proxy settings to relay OS-updates through your web proxy.
   - On your Windows Server, use the netsh utility to configure the proxy used for Windows Updates.
-  - On your Linux server, edit configuration files used by the package manager.
-(This is probably **apt** for Debian/Ubuntu style Linux distributions,
+  - On your Linux server, edit the configuration files used by the package manager.
+(The manager is probably **apt** for Debian/Ubuntu style Linux distributions,
 or **dnf** for Red Hat style distributions.)
 
 ### Deliverable
