@@ -69,7 +69,7 @@ Upload an illustrated tutorial, in which you explain what your team did and how 
 - If your tutorial does not satisfy any one of the above requirements, you will earn no points. Your team must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
 ### Hints
-- All components for this app can be successfully installed on either Linux or Windows servers;
+- All components for this app can be successfully installed and operated on either Linux or Windows servers;
 the hints below assume installation on Linux.
 - After your database first starts up, it's considered best practice to execute
 the [mysql_secure_installation](https://mariadb.com/kb/en/mysql_secure_installation/) script.
@@ -140,13 +140,16 @@ in your custom rule.) Generate some web traffic by accessing your Question2Answe
 from a web browser, and look carefully at the logs HAProxy generates to see evidence that
 successive web requests are proxied to different "backend" web servers.
     2. Create distinguishing content on both web servers.
-Examples: a file named `check.html` on both, but which contains "original" on the first host
-but contains "clone" on the cloned host, and a `favicon.ico` image file that is a different
-colored image on each host. Use your web browser to repeatedly access `check.html`, and
-notice that the content changes and/or the site icon changes color.
+Examples: put a file named `check.html` on both, but which on the first host contains the text "original"
+and embeds a bright image, but on the clone contains the text "clone" and embeds a duller-hued image;
+also, put different `favicon.ico` icon files on each host.
+Then use your web browser to repeatedly reload `check.html`,
+and notice that the content changes and/or the site icon changes color with each reload.
 - To test your load balancer's ability to keep serving Question2Answer through service outages,
 use `systemctl` to start and stop the web service on a web server.
-  - (If you chose to deploy Question2Answer using Windows Servers, a recommended load-balancing
-solution is to deploy Microsoft's Network Load Balancing Server Role directly onto both web servers,
-which will then share a third IP address belonging to a load balancing "cluster."
-Be sure to configure the multicast communication option when you set up the cluster.)
+
+ - (Note: If you chose to deploy Question2Answer using Windows Servers instead of Linux,
+your recommended load-balancing solution
+is to deploy Microsoft's Network Load Balancing Server Role directly onto both web servers,
+which will then share a third "virtual" IP address that identifies a load balancing "cluster."
+Be sure to configure multicast communication when you set up the cluster.)
