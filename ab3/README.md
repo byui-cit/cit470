@@ -7,7 +7,7 @@ Deploy an authoritative DNS server that resolves "localdomain" hostnames, and al
 [CIT department VMware infrastructure](/cit470/courseinfo/vSphere)
 
 ### Requirements
--"localdomain" hostnames are resolved with the correct IP addresses.
+-All localdomain hostnames are resolved with the correct IP addresses.
 -Sticky leased IP addresses are correctly assigned to your endpoint hosts.
 -DNS functionality extends across security zones.
 
