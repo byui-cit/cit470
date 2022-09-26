@@ -1,6 +1,3 @@
-# CIT 470, Systems Security II
-## Diagram
-
 ### Task
 Create and maintain a professional-quality network diagram that documents your team's security architecture.
 
