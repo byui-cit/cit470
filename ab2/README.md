@@ -6,7 +6,7 @@ Complete an optional project that creatively goes "above and beyond" the tasks y
 Students that achieve a passing grade with each of their team tasks and peer evaluations will pass the course with a C grade. Above-and-beyond tasks are projects that students may accomplish individually. There are eight Above-and-beyond opportunities in this course.
 
 ### Tools
-One one or more of your team's virtual machines, install [Wireshark](https://www.wireshark.org/), a software utility for capturing and analyzing network traffic.
+On one or more of your team's virtual machines, install [Wireshark](https://www.wireshark.org/), a software utility for capturing and analyzing network traffic.
 - Wireshark features a Graphical User Interface application, useful for interactive packet-captures and packet-analysis.
 It also includes a terminal-based command-line utility, [tshark](https://www.wireshark.org/docs/wsug_html_chunked/AppToolstshark.html),
 which complements Wireshark; for some tasks it is more practical than the GUI application.
