@@ -7,9 +7,10 @@ Deploy an authoritative DNS server that resolves "localdomain" hostnames, and al
 [CIT department VMware infrastructure](/cit470/courseinfo/vSphere)
 
 ### Requirements
--All localdomain hostnames are resolved with the correct IP addresses.
--Sticky leased IP addresses are correctly assigned to your endpoint hosts.
--DNS functionality extends across security zones.
+Make certain that you have met the following requirements:
+- All "localdomain" hostnames are resolved with the correct IP addresses.
+- Sticky leased IP addresses are correctly assigned to your endpoint hosts.
+- DNS functionality extends across security zones.
 
 ### Deliverable
 Upload an illustrated tutorial, in which you explain what your team did and how you accomplished it.
