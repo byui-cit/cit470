@@ -1,6 +1,4 @@
-# CIT 470, Systems Security II
-## IPSec VPN
-### Task
+### Task (IPSec VPN)
 Your instructor will specify another team in the class to work with for this milestone.
 
 Configure a site-to-site VPN tunnel on your team's Internet-facing firewall,
