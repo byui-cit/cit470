@@ -53,7 +53,10 @@ Upload an image, in either PDF or PNG file format, of your completed diagram.
 You must then address any deficiencies and re-upload corrected diagrams until you earn the passing score.
 
 ### Examples
-Here are some example diagrams that were created using some of the tools mentioned above.
+Here are some example diagram templates that were created using some of the tools mentioned above.
+(Notice most of the important information is left blank. Your team must "fill-in-the-blanks"
+with relevant information as the semester progresses, but you should already have the relevant
+information you need to fill in at least some of the details.)
 
 Example drawn using Cacoo:
 ![Cacoo example](CIT470-cacoo-template.png)
