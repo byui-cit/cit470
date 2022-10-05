@@ -56,13 +56,13 @@ You must then address any deficiencies and re-upload corrected diagrams until yo
 Here are some example diagrams that were created using some of the tools mentioned above.
 
 Example drawn using Cacoo:
-![Cacoo example](CIT470-cacoo-x.png)
+![Cacoo example](CIT470-cacoo-template.png)
 
 Example drawn using diagrams.net:
-![diagrams.net example](CIT470-drawio-x.png)
+![diagrams.net example](CIT470-drawio-template.png)
 
 Example drawn using Lucidchart:
-![Lucidchart example](CIT470-lucid-x.png)
+![Lucidchart example](CIT470-lucid-template.png)
 
 Example drawn using Microsoft Visio:
 ![Visio example](CIT470-visio-x.png)
