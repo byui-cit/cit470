@@ -1,8 +1,11 @@
 ## Task: SNMP Network Monitor
-
+Configure an SNMP poller, managed from your secure zone, that monitors your firewalls' subinterfaces.
 ## Tools
+- Firewall interface
 
 ## Requirements
+- Configure an SNMP poller to monitor your firewall interfaces
+- Set up reporting and management for your SNMP poller
 
 ## Deliverable
 Upload an illustrated tutorial, in which you explain what your team did and how you accomplished it.
