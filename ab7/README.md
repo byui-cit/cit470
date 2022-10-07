@@ -2,9 +2,11 @@
 
 ## Tools
 - Varies based on project
+
 ## Requirements
 - Select an Above-and-Beyond project from the list of possible Above-and-Beyond projects in M00: Semester Project Tasks and Requirements, or come up with your own.
 - Come up with a list of requirements for the project and message your instructor for project and requirements approval
+
 ## Deliverable
 Upload an illustrated tutorial, in which you explain what your team did and how you accomplished it.
 - Your document should be clear enough that one of your peers would be able to follow your instructions and accomplish the same tasks.
