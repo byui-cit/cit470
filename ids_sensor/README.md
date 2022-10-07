@@ -1,5 +1,6 @@
 ## Task: IDS Sensor
 - Configure a NIDS sensor, managed from your secure zone, that monitors DMZ network traffic, and alerts when it notices potentially malicious traffic.
+
 ## Tools
 - NIDS sensor software
 
@@ -10,7 +11,6 @@
 
 ## Deliverable
 Upload an illustrated tutorial, in which you explain what your team did and how you accomplished it.
-
 - Your document should be clear enough that one of your peers would be able to follow your instructions and accomplish the same tasks.
 - Identify any difficult or challenging parts of the project, and clearly explain how you diagnosed and overcame your obstacles.
 - Include a few cropped screen captures where appropriate. Also upload your updated and annotated network diagram.
