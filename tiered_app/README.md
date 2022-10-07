@@ -15,7 +15,7 @@ it should also scale your web app to be able to handle more simultaneous clients
 - Use either [MariaDB](https://mariadb.org/) or [MySQL](https://www.mysql.com/) as the back-end database. Very likely,
 this will be easy to install using your Linux distribution's package manager.
 - Use either [Apache HTTP Server](https://httpd.apache.org/) or [nginx](https://nginx.org/) as your web server. Very likely,
-these will be easy to install using your Linux distirbution's package manager.
+these will be easy to install using your Linux distribution's package manager.
 - Download the latest version of [Question2Answer](https://www.question2answer.org/) to your **dmz** web server.
 
 ### Requirements
