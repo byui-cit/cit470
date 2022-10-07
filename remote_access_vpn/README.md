@@ -6,7 +6,7 @@ Configure a remote-access VPN capability on your Internet-facing firewall that l
 
 ## Requirements
 - Configure a SSL Remote Access VPN such that authorized team members can access your team's inside zone hosts from the Internet.
-- Show that your outside team member can access your Windows and Linux servers and your tiered app fromm outside your inside zone.
+- Show that your outside team member can access your Windows and Linux servers and your tiered app from outside your inside zone.
 
 
 ## Deliverable
