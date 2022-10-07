@@ -1,4 +1,3 @@
-
 ## Task: IDS Sensor
 - Configure a NIDS sensor, managed from your secure zone, that monitors DMZ network traffic, and alerts when it notices potentially malicious traffic.
 ## Tools
