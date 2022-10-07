@@ -23,7 +23,7 @@ Phase I:
 - Install your database server on your **secure** Linux host.
 - Find, read, and follow the Question2Answer installation instructions.
 (Those instructions anticipate that the database and web servers reside on the same machine,
-so be careful to adjust them so tha you implement your tiered app archecture instead.)
+so be careful to adjust them so that you implement your tiered app archecture instead.)
   - You'll certainly need to configure new firewall policies on your secure-facing firewall to allow
 the **dmz** web middleware to communicate with the **secure** database service.
   - Notice that there are some additional pre-requisites that aren't listed above,
