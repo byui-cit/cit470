@@ -42,7 +42,7 @@ and then they measure how much bandwidth was used during those data transfers.
   - Some popular bandwitdh testers include [SpeedOf.Me](https://speedof.me/),
 [Bandwidth Place](https://www.bandwidthplace.com/),
 [Ookla Speedtest](https://www.speedtest.net/), or
-[Google Fiber Speed Test]{(https://fiber.google.com/speedtest/).
+[Google Fiber Speed Test](https://fiber.google.com/speedtest/).
   - Using any of these tools from a web browser in your **dmz** or **inside** zones
 will temporarily produce a detectably large spike in bandwidth usage through your Internet-facing firewall.
   - Experiment! Most Internet service providers enforce their own data rate limits,
