@@ -4,8 +4,8 @@
 - Same as those revealed in the [Penetration Testing Exercise](cit470/pentest).
 
 ## Requirements
-- After you and your team have succeeded in accomplishing one of the objectives that satisfies the Penetration Testing Exercise,
-you may continue working, either individually or with other classmates, to accomplish any of the other Penetration Testing Exercise objectives.
+- After you and your team have accomplished *one* of the objectives that satisfies the Penetration Testing Exercise,
+you may continue working, either individually or with other classmates, to accomplish *any of the other* Penetration Testing Exercise objectives.
 - Produce another illustrated tutorial that shows how you achieved your additional objective.
 (If you worked together with other classmates on this above-and-beyond task, each of you must write your own report.)
 
