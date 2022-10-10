@@ -1,14 +1,16 @@
 ## Task: Above-and-Beyond 8
 
 ## Tools
-- Varies based on project
+- Same as those revealed in the [Penetration Testing Exercise](cit470/pentest).
 
 ## Requirements
-- Select an Above-and-Beyond project from the list of possible Above-and-Beyond projects in M00: Semester Project Tasks and Requirements, or come up with your own.
-- Come up with a list of requirements for the project and message your instructor for project and requirements approval
+- After you and your team have succeeded in accomplishing one of the objectives that satisfies the Penetration Testing Exercise,
+you may continue working, either individually or with other classmates, to accomplish any of the other Penetration Testing Exercise objectives.
+- Produce another illustrated tutorial that shows how you achieved your additional objective.
+(If you worked together with other classmates on this above-and-beyond task, each of you must write your own report.)
 
 ## Deliverable
-Upload an illustrated tutorial, in which you explain what your team did and how you accomplished it.
+Upload an illustrated tutorial, in which you explain what you did and how you accomplished it.
 - Your document should be clear enough that one of your peers would be able to follow your instructions and accomplish the same tasks.
 - Identify any difficult or challenging parts of the project, and clearly explain how you diagnosed and overcame your obstacles.
 - Include a few cropped screen captures where appropriate. Also upload your updated and annotated network diagram.
@@ -18,4 +20,4 @@ Upload an illustrated tutorial, in which you explain what your team did and how 
 - If your tutorial does not satisfy any one of the above requirements, you will earn no points. Your team must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
 ## Hints
-- Don't spend too much time getting the perfect list of requirements. It's better and faster to get a good list of requirements and then get your instructor feedback on your list.
+- Complete your first objective in the Penetration Testing Exercise *before* you go above and beyond to tackle another objective.
