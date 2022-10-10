@@ -8,7 +8,7 @@ Students that achieve a passing grade with each of their team tasks and peer eva
 ### Tools
 On one or more of your team's virtual machines, install [Wireshark](https://www.wireshark.org/), a software utility for capturing and analyzing network traffic.
 - Wireshark features a Graphical User Interface application, useful for interactive packet-captures and packet-analysis.
-It also includes a terminal-based command-line utility, [tshark](https://www.wireshark.org/docs/wsug_html_chunked/AppToolstshark.html),
+It also includes a terminal-based command-line utility, [tshark](https://www.wireshark.org/docs/wsug_html_chunked/AppToolstshark.html){:target="_blank" rel="noopener"},
 which complements Wireshark; for some tasks it is more practical than the GUI application.
 - Most Linux distributions' default installations provide the command-line utility [tcpdump](https://www.tcpdump.org/).
 Learn to use this tool too; you'll likely use it often in your future careers.
