@@ -32,5 +32,5 @@ Upload an illustrated tutorial, in which you explain what you did and how you ac
 
 ## Hints
 - It may be difficult to actually coax your new HIDS system into actually generating an alert.
-However, do your best in your tutorial document to demonstrate that you at least made a good-faith effort to do so,
+However, in your deliverable, do your best to demonstrate that you at least made a good-faith effort to do so,
 without taking any "unreasonable" security risks.
