@@ -30,19 +30,19 @@ so you will need to change that default setting,
 so that your Internet-facing firewall accepts SNMP poll requests through its secure-facing interface.
 - There are many network monitoring software packages, available at no cost, that work nicely for this assignment.
   - A popular choice to install on a **secure** zone Windows Server is
-[PRTG Network Monitor](https://www.paessler.com/prtg),
+<a href="https://www.paessler.com/prtg" target="_blank" rel="noopener">PRTG Network Monitor</a>,
 a commercial product with a free trial option.
   - A couple of popular choices to install on a **secure** zone Linux Server are
-[Zabbix](https://www.zabbix.com/network_monitoring) and 
-[Cacti](https://www.cacti.net/).
+<a href="https://www.zabbix.com/network_monitoring" target="_blank" rel="noopener">Zabbix</a>and 
+<a href="https://www.cacti.net/" target="_blank" rel="noopener">Cacti</a>.
 - There are lots of useful "bandwidth testing" web applications.
 In general, these apps generate a large amount of discardable data,
 to be downloaded to (and uploaded from) a web browser as fast as possible,
 and then they measure how much bandwidth was used during those data transfers.
-  - Some popular bandwitdh testers include [SpeedOf.Me](https://speedof.me/),
-[Bandwidth Place](https://www.bandwidthplace.com/),
-[Ookla Speedtest](https://www.speedtest.net/), or
-[Google Fiber Speed Test](https://fiber.google.com/speedtest/).
+  - Some popular bandwitdh testers include <a href="https://speedof.me/" target="_blank" rel="noopener">SpeedOf.Me</a>,
+<a href="https://www.bandwidthplace.com/" target="_blank" rel="noopener">Bandwidth Place</a>,
+<a href="https://www.speedtest.net/" target="_blank" rel="noopener">Ookla Speedtest</a>, or
+<a href="https://fiber.google.com/speedtest/" target="_blank" rel="noopener">Google Fiber Speed Test</a>.
   - Using any of these tools from a web browser in your **dmz** or **inside** zones
 will temporarily produce a detectably large spike in bandwidth usage through your Internet-facing firewall.
   - Experiment! Most Internet service providers enforce their own data rate limits,
