@@ -17,7 +17,7 @@ and to introduce you to their capabilities.
 As an individual "above-and-beyond" effort,
 select an interesting feature of your implemented tool,
 and engage in a "deep-dive" study of that feature.
-  - Come up with your objective and own *short* list of requirements for this "deep-dive" task.
+  - Come up with your objective and your own *short* list of requirements for this "deep-dive" task.
   - Message your instructor for approval of your objective and requirements.
   - Successfully achieve your objective regarding the feature you selected.
 
