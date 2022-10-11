@@ -1,5 +1,8 @@
 ## Task: Above-and-Beyond 7
-The requirements for your Intrustion Detection, SNMP monitoring, and SIEM projects each merely scratch the surface of 
+Before starting this above-and-beyond task, complete one of these team tasks with your partner(s):
+[IDS Sensor](cit470/ids_sensor),
+[SNMP Network Monitoring](cit470/SNMP_network_monitor), or
+[SIEM](cit470/SIEM).
 
 ## Tools
 - Varies based on project
