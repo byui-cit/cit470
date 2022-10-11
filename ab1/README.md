@@ -7,7 +7,7 @@ Students that achieve a passing grade with each of their team tasks and peer eva
 Above-and-beyond tasks are projects that students may accomplish individually.
 There are eight Above-and-beyond opportunities in this course.
 
-After completing this task, you will have a functional working mock-up on your local computer, which mimics many aspects of the network that you and your partner(s) build in the <a href=".../cit470/firewalls/" target="_blank" ref="noopener">Firewalls</a> team task.
+After completing this task, you will have a functional working mock-up on your local computer, which mimics many aspects of the network that you and your partner(s) build in the <a href="https://byui-cit.github.io/cit470/firewalls/" target="_blank" ref="noopener">Firewalls</a> team task.
 
 ### Tools
 - Sign up for a free gns3.com account: [https://www.gns3.com/account/login](https://www.gns3.com/account/login)
