@@ -22,7 +22,7 @@ and engage in a "deep-dive" study of that feature.
   - Successfully achieve your objective regarding the feature you selected.
 
 ## Deliverable
-Upload an illustrated tutorial, in which you explain what your team did and how you accomplished it.
+Upload an illustrated tutorial, in which you explain what you did and how you accomplished it.
 - Your document should be clear enough that one of your peers would be able to follow your instructions and accomplish the same tasks.
 - Identify any difficult or challenging parts of the project, and clearly explain how you diagnosed and overcame your obstacles.
 - Include a few cropped screen captures where appropriate. Also upload your updated and annotated network diagram.
