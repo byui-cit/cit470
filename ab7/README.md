@@ -45,7 +45,7 @@ server VMs (in addition to the bandwith data you already collect from your Inter
 A requirement could be to develop a procedure to test collection from the new data sources,
 and verify that they work.
   - Explore the "visualization" features of your SIEM, with an objective to create a "dashboard"
-alert or graph that a security team manager could use to check a system's health.
+alert or graph that a security analyst or manager could use to check a system's health.
 A requirement could be to monitor logs sent by your load balancer, and display
 an indicator on the dashboard whenever the load balancer detects that one or both of the balanced
 servers goes offline.
