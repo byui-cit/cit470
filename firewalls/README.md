@@ -1,5 +1,5 @@
 # CIT 470, Systems Security II
-## Perimiter Firewalls
+## Perimeter Firewalls
 
 ### Task
 Work with your team to deploy and configure an internet-facing firewall and a secure-facing firewall,
