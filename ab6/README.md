@@ -3,8 +3,8 @@ Now that your team is working on (or has successfully deployed) a Network Intrus
 deploy and test a Host-based Intrustion Detection System as an individual above-and-beyond task.
 
 ## Tools
-- Choose a HIDS platform.
-  - Recommended: deploy an [OSSEC](https://www.ossec.net/) HIDS server on a **secure** zone Linux VM.
+Choose a HIDS platform.
+- Recommended: deploy an [OSSEC](https://www.ossec.net/) HIDS server on a **secure** zone Linux VM.
 - Other options:
   - use the [Wazuh](https://wazuh.com/) service already installed on your Security Onion VM.
   - deploy a standalone Wazuh HIDS server on one of your other **secure** zone Linux VMs.
