@@ -12,8 +12,8 @@ Choose a HIDS platform.
 
 ## Requirements
 - Configure and activate a HIDS server.
-- Deploy a HIDS agent on at least one of your team's Windows Server VMs.
-- Deploy an agent on at least one of your team's Linuz Server VMs.
+- Deploy a corresponding HIDS agent on at least one of your team's Windows Server VMs.
+- Deploy a corresponding HIDS agent on at least one of your team's Linuz Server VMs.
 - Establish communication between your HIDS agents and your HIDS server. ("Register" your agents.)
 - Find a way to test your HIDS setup.
   - Example: make a dangerous registry or configuration change on an agent-registered VM, something that the agent should detect.
