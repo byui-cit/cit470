@@ -1,11 +1,22 @@
 ## Task: Above-and-Beyond 7
+The requirements for your Intrustion Detection, SNMP monitoring, and SIEM projects each merely scratch the surface of 
 
 ## Tools
 - Varies based on project
 
 ## Requirements
-- Select an Above-and-Beyond project from the list of possible Above-and-Beyond projects in M00: Semester Project Tasks and Requirements, or come up with your own.
-- Come up with a list of requirements for the project and message your instructor for project and requirements approval
+- Before starting this above-and-beyond task, complete one of these team tasks with your partner(s):
+[IDS Sensor](cit470/ids_sensor),
+[SNMP Network Monitoring](cit470/SNMP_network_monitor), or
+[SIEM](cit470/SIEM).
+- The requirements for each of those three projects are just enough to get them installed and working,
+and to introduce you to their capabilities.
+As an individual "above-and-beyond" effort,
+select an interesting feature of your implemented tool,
+and engage in a "deep-dive" study of that feature.
+  - Come up with your objective and own *short* list of requirements for this "deep-dive" task.
+  - Message your instructor for approval of your objective and requirements.
+  - Successfully achieve your objective regarding the feature you selected.
 
 ## Deliverable
 Upload an illustrated tutorial, in which you explain what your team did and how you accomplished it.
@@ -18,4 +29,20 @@ Upload an illustrated tutorial, in which you explain what your team did and how 
 - If your tutorial does not satisfy any one of the above requirements, you will earn no points. Your team must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
 ## Hints
-- Don't spend too much time getting the perfect list of requirements. It's better and faster to get a good list of requirements and then get your instructor feedback on your list.
+- Don't spend too much time getting the perfect list of requirements.
+It's better and faster to get a good objective and list of requirements,
+and then get your instructor feedback on your list.
+- If you don't notice a feature that strikes your passion, maybe one of the following will spark some creative ideas:
+  - Explore the Cases feature of Security Onion,
+with an objective to implement a demonstration that
+shows a case used to collaboratively tackle a investigation of a network intrusion alert.
+  - Expand your network monitoring package,
+with an objective to collect CPU and storage measurements from a couple of of your
+server VMs (in addition to the bandwith data you already collect from your Internet-facing firewall).
+A requirement could be to develop a procedure to test collection from the new data sources,
+and verify that they work.
+  - Explore the "visualization" features of your SIEM, with an objective to create a "dashboard"
+alert or graph that a security team manager could use to check a system's health.
+A requirement could be to monitor logs sent by your load balancer, and display
+an indicator on the dashboard whenever the load balancer detects that one or both of the balanced
+servers goes offline.
