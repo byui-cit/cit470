@@ -1,4 +1,4 @@
-## Task:b Above-and-beyond 2
+## Task: Above-and-beyond 2
 Complete an optional project that creatively goes "above and beyond" the tasks you and your partner(s) are working on in your team projects.
 
 Students that achieve a passing grade with each of their team tasks and peer evaluations will pass the course with a C grade. Above-and-beyond tasks are projects that students may accomplish individually. There are eight Above-and-beyond opportunities in this course.
