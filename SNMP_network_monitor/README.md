@@ -33,7 +33,7 @@ so that your Internet-facing firewall accepts SNMP poll requests through its sec
 <a href="https://www.paessler.com/prtg" target="_blank" rel="noopener">PRTG Network Monitor</a>,
 a commercial product with a free trial option.
   - A couple of popular choices to install on a **secure** zone Linux Server are
-<a href="https://www.zabbix.com/network_monitoring" target="_blank" rel="noopener">Zabbix</a>and 
+<a href="https://www.zabbix.com/network_monitoring" target="_blank" rel="noopener">Zabbix</a> and 
 <a href="https://www.cacti.net/" target="_blank" rel="noopener">Cacti</a>.
 - There are lots of useful "bandwidth testing" web applications.
 In general, these apps generate a large amount of discardable data,
