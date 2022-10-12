@@ -1,6 +1,6 @@
 ## Task: Above-and-Beyond 7
 Before starting this above-and-beyond task, complete one of these team tasks with your partner(s):
-<a href="cit470/ids_sensor" target="_blank" rel="noopener">IDS Sensor</a>,
+<a href="https://byui-cit.github.io/cit470/ids_sensor/" target="_blank" rel="noopener">IDS Sensor</a>,
 [SNMP Network Monitoring](cit470/SNMP_network_monitor), or
 [SIEM](cit470/SIEM).
 
