@@ -1,6 +1,4 @@
-# CIT 470, Systems Security II
-## Tiered App
-### Task
+## Task: Tiered App
 Work with your team to deploy *Question2Answer* as a three-tiered web app,
 with a protected database *back-end* in your **secure** zone,
 users web browser *clients* in the **outside** zone,
@@ -12,11 +10,11 @@ and with both web servers functioning properly,
 it should also scale your web app to be able to handle more simultaneous clients.
 
 ### Tools
-- Use either [MariaDB](https://mariadb.org/) or [MySQL](https://www.mysql.com/) as the back-end database. Very likely,
+- Use either <a href="https://mariadb.org/" target="_blank" rel="noopener">MariaDB</a> or <a href="https://www.mysql.com/" target="_blank" rel="noopener">MySQL</a> as the back-end database. Very likely,
 this will be easy to install using your Linux distribution's package manager.
-- Use either [Apache HTTP Server](https://httpd.apache.org/) or [nginx](https://nginx.org/) as your web server. Very likely,
+- Use either <a href="https://httpd.apache.org/" target="_blank" rel="noopener">Apache HTTP Server</a> or <a href="https://nginx.org/" target="_blank" rel="noopener">nginx</a> as your web server. Very likely,
 these will be easy to install using your Linux distribution's package manager.
-- Download the latest version of [Question2Answer](https://www.question2answer.org/) to your **dmz** web server.
+- Download the latest version of <a href="https://www.question2answer.org/" target="_blank" rel="noopener">Question2Answer</a> to your **dmz** web server.
 
 ### Requirements
 Phase I:
@@ -27,7 +25,7 @@ so be careful to adjust them so that you implement your tiered app archecture in
   - You'll certainly need to configure new firewall policies on your secure-facing firewall to allow
 the **dmz** web middleware to communicate with the **secure** database service.
   - Notice that there are some additional pre-requisites that aren't listed above,
-such as a [PHP](https://www.php.net/) engine,
+such as a <a href="https://www.php.net/" target="_blank" rel="noopener">PHP</a> engine,
 that you may need to find and install.
   - For troubleshooting, it may be helpful to install a database client on your **dmz** web host,
 and use that to test connectivity through the secure-facing firewall to the **secure** database host.
@@ -72,7 +70,7 @@ Upload an illustrated tutorial, in which you explain what your team did and how 
 - All components for this app can be successfully installed and operated on either Linux or Windows servers;
 the hints below assume installation on Linux.
 - After your database first starts up, it's considered best practice to execute
-the [mysql_secure_installation](https://mariadb.com/kb/en/mysql_secure_installation/) script.
+the <a href="https://mariadb.com/kb/en/mysql_secure_installation/" target="_blank" rel="noopener">mysql_secure_installation</a> script.
 - Record your MariaDB/MySQL root password, your database name, and your database user and password,
 and keep them in a secure place shared with your team partner(s)
 so that each of you can find and use them.
