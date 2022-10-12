@@ -1,12 +1,9 @@
-# CIT 470, Systems Security II
-## Perimeter Firewalls
-
-### Task
+## Task: Perimeter Firewalls
 Work with your team to deploy and configure an internet-facing firewall and a secure-facing firewall,
 with policies that let your server VMs communicate between security zones,
 and enable Internet access for your DMZ and inside server VMs.
 
-### Tools
+## Tools
 - A Palo Alto PA-440 firewall, to enforce policies regarding Internet-facing network traffic,
 and a FortiNet FortiGate firewall "VDOM" (virtual domain) to enforce policies regarding secure-facing traffic.
 - Your team's network diagram, annotated with the following necessary data:
@@ -24,7 +21,7 @@ and a FortiNet FortiGate firewall "VDOM" (virtual domain) to enforce policies re
     - The IP address of your secure-facing firewall's secure zone interface. (This will be your team's secure zone default gateway address.)
     - The IP addresses of your secure zone Windows Server and Linux server VMs.
 
-### Requirements
+## Requirements
 *Summary: configure admministrator accounts, sub-interfaces, routing, policy rules, and NAT funcitonality on your Internet facing firewall,
 sufficient for your DMZ and inside servers to access the Internet and receive OS updates.
 Also, configure appropriate static routes and access policies on both firewalls,
@@ -58,17 +55,17 @@ configured with its required VLAN tag, IPv4 address/subnet mask, and also config
 - Verify that your VMs can use SSH and RDP to connect across zone boundaries to other VMs.
 - Verify that your secure zone hosts cannot directly access the Internet.
 
-### Deliverable
+## Deliverable
 Upload an illustrated tutorial, in which you explain what your team did and how you accomplished it.
 - Your document should be clear enough that one of your peers would be able to follow your instructions and accomplish the same tasks.
 - Identify any difficult or challenging parts of the project, and clearly explain how you diagnosed and overcame your obstacles.
 - Include a few cropped screen captures where appropriate.
 Also upload your updated and annotated network diagram.
 
-### Scoring Rubric
+## Scoring Rubric
 - If your tutorial satisfies every requirement outlined above, you will earn a passing score (one point).
 - If your tutorial does not satisfy any one of the above requirements, you will earn no points.
 Your team must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
-### Example
-@@@ TBD
+## Example
+[Example will be loaded]
