@@ -44,8 +44,8 @@ shows a case used to collaboratively tackle a investigation of a network intrusi
   - Expand your network monitoring package,
 with an objective to collect CPU and storage measurements from a couple of of your
 server VMs (in addition to the bandwith data you already collect from your Internet-facing firewall).
-A requirement could be to develop a procedure to test collection from the new data sources,
-and verify that they work.
+A requirement could be: make your network monitor collect the desired data from the new data sources,
+and verify that the data collection is happening.
   - Explore the "visualization" features of your SIEM, with an objective to create a "dashboard"
 alert or graph that a security analyst or manager could use to check a system's health.
 A requirement could be to monitor logs sent by your load balancer, and display
