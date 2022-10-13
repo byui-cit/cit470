@@ -1,4 +1,4 @@
-## Task: Above-and-beyond 5
+## Task: Above-and-Beyond 5
 Successfully deploy some other multiple-tier web application of your choice across your security zones.
 
 ## Tools
