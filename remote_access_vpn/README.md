@@ -1,4 +1,4 @@
-## Task ((SSL) Remote-Access VPN)
+## Task: (SSL) Remote-Access VPN
 Configure a remote-access VPN capability on your Internet-facing firewall that lets members of your team remotely access your team's DMZ hosts.
 
 ## Tools
