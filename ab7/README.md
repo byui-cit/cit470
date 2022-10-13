@@ -3,17 +3,17 @@ As an individual "above-and-beyond" effort, select an interesting feature of you
 
 Before starting this above-and-beyond task, complete one of these team tasks with your partner(s):
 <a href="https://byui-cit.github.io/cit470/ids_sensor/" target="_blank" rel="noopener">IDS Sensor</a>,
-[SNMP Network Monitoring](cit470/SNMP_network_monitor), or
-[SIEM](cit470/SIEM).
+<a href="cit470/SNMP_network_monitor" target="_blank" ref="noopener">SNMP Network Monitoring</a>, or
+<a href="cit470/SIEM" target="_blank" ref="noopener">SIEM</a>.
 
 ## Tools
 - Varies based on project
 
 ## Requirements
 - Before starting this above-and-beyond task, complete one of these team tasks with your partner(s):
-[IDS Sensor](cit470/ids_sensor),
-[SNMP Network Monitoring](cit470/SNMP_network_monitor), or
-[SIEM](cit470/SIEM).
+<a href="cit470/ids_sensor" target="_blank" ref="noopener">IDS Sensor</a>,
+<a href="cit470/SNMP_network_monitor" target="_blank" ref="noopener">SNMP Network Monitoring</a>, or
+<a href="cit470/SIEM" target="_blank" ref="noopener">SIEM</a>.
 - The requirements for each of those three projects are just enough to get them installed and working,
 and to introduce you to their capabilities.
 As an individual "above-and-beyond" effort,
