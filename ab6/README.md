@@ -1,4 +1,4 @@
-## Task: Above-and-beyond 6 (HIDS Sensor)
+## Task: Above-and-Beyond 6 (HIDS Sensor)
 Now that your team is working on (or has successfully deployed) a Network Intrustion Detection sensor,
 deploy and test a Host-based Intrustion Detection System as an individual above-and-beyond task.
 
