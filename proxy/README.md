@@ -5,7 +5,7 @@ sufficient for your team's secure zone hosts to access the Internet and receive 
 ## Tools
 The VMs you deployed to your inside and secure zones.
 
-### Requirements
+## Requirements
 - Deploy a DNS proxy service.
   - recommended: Acrylic DNS Proxy on Windows Server
   - other good options: unbound or dnsmasq on Linux server.
@@ -22,16 +22,16 @@ The VMs you deployed to your inside and secure zones.
 (The manager is probably **apt** for Debian/Ubuntu style Linux distributions,
 or **dnf** for Red Hat style distributions.)
 
-### Deliverable
+# Deliverable
 Upload an illustrated tutorial, in which you explain what your team did and how you accomplished it.
 - Your document should be clear enough that one of your peers would be able to follow your instructions and accomplish the same tasks.
 - Identify any difficult or challenging parts of the project, and clearly explain how you diagnosed and overcame your obstacles.
 - Include a few cropped screen captures where appropriate. Also upload your updated and annotated network diagram.
 
-### Scoring Rubric
+## Scoring Rubric
 - If your tutorial satisfies every requirement outlined above, you will earn a passing score (one point).
 - If your tutorial does not satisfy any one of the above requirements, you will earn no points.
 Your team must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
-### Hints
+## Hints
 @@@ [Hints will be added by the Course Lead]
