@@ -2,12 +2,11 @@
 - Configure a Network Intrusion Detection System (NIDS) sensor, managed from your secure zone, that monitors DMZ network traffic, and alerts when it notices potentially malicious traffic.
 
 ## Tools
-- Recommended: deploy a [Security Onion](https://securityonionsolutions.com/) sensor VM with two virtual interfaces: an analyst's *management* interface in your **secure** zone, and a promiscuous *sensor* interface in your **dmz**.
+- Recommended: deploy a <a href="https://securityonionsolutions.com/" target="_blank" ref="noopener">Security Onion</a> sensor VM with two virtual interfaces: an analyst's *management* interface in your **secure** zone, and a promiscuous *sensor* interface in your **dmz**.
   - Optional: not recommended, but if you prefer, you may also roll your own sensor, as follows:
 deploy a new Linux or Windows Server in your **secure** zone,
 add another virtual network interface in your **dmz** (intended to collect or *sniff* **dmz** network traffic as a *sensor*),
-download, install, and configure [Suricata](https://suricata.io/) or [Snort](https://www.snort.org/), and
-implement a NIDS ruleset from a reputable threat-intelligence source, such as [Emerging Threats Open Rules](https://rules.emergingthreats.net/open/).
+download, install, and configure <a href="https://suricata.io/" target="_blank" ref="noopener">Suricata</a> or <a href="https://www.snort.org/" target="_blank" ref="noopener">Snort</a>, and implement a NIDS ruleset from a reputable threat-intelligence source, such as <a href="https://rules.emergingthreats.net/open/" target="_blank" ref="noopener">Emerging Threats Open Rules</a>.
 
 ## Requirements
 - Your team's NIDS sensor monitors all **dmz** network traffic
@@ -28,7 +27,7 @@ Upload an illustrated tutorial, in which you explain what your team did and how 
 
 ## Hints
 These hints assume you will follow the recommendation to deploy a Security Onion VM.
-- Spend some time studying the [Security Onion documentation](https://docs.securityonion.net/).
+- Spend some time studying the <a href="https://docs.securityonion.net/" target="_blank" ref="noopener">Security Onion documentation</a>.
 Get acquainted with its architectures, its many components and its "containerized" organization.
   - Do NOT deploy a Security Onion with a minimal IMPORT architecture.
 Although that's what the documentation's "First Time Users" section recommends,
@@ -56,7 +55,7 @@ to spin up all of its service processes.
 the IP address of your **secure** Windows Server or **secure** Linux server.
 Then you can use a web browser on that server to interact with
 your sensor's "Security Onion Console."
-- The key NIDS software package in your sensor is [Suricata](https://suricata.io/).
+- The key NIDS software package in your sensor is <a href="https://suricata.io/" target="_blank" ref="noopener">Suricata</a>.
 in the Security Onion documentation, find the "Network Visibility"
 section and its "Suricata" subsection.
 Just quickly skim through the suggestions you find there, to get a rough feel
@@ -64,7 +63,7 @@ for some of the things Suricata on Security Onion can do, and some of the
 troubleshooting tips you might need to consult in case something doesn't work as expected.
   - You should not need to reconfigure Suricata; Security Onion's default configuration should work just fine.
 - *The power and effectiveness of any Suricata IDS sensor lies in its ruleset*.
-  - Go to [Suricata's online documentation](https://suricata.readthedocs.io/),
+  - Go to <a href="https://suricata.readthedocs.io/" target="_blank" ref="noopener">Suricata's online documentation</a>,
 find the "Suricata Rules" section and its "Rules Format" subsection,
 and study it carefully to become acquainted with the manner in which a
 Suricata-style or Snort-style "NIDS rule"
@@ -72,18 +71,18 @@ Suricata-style or Snort-style "NIDS rule"
 Try to get comfortable enough with the syntax that, when you are presented
 with a new rule, you will be able to quickly distinguish its
 action, header, and options.
-  - Go back to the [Security Onion documentation](https://docs.securityonion.net/),
+  - Go back to the <a href="https://docs.securityonion.net/" target="_blank" ref="noopener">Security Onion documentation</a>,
 find the "Tuning" section of the documentation,
 and study its "Managing Rules," "Adding Local Rules," and "Managing Alerts" subsections.
   - Your Security Onion sensor will come preconfigured to download and use
-the [Emerging Threats Open](https://rules.emergingthreats.net/open/) threat intelligence feed. 
+the <a href="https://rules.emergingthreats.net/open/" target="_blank" ref="noopener">Emerging Threats Open</a> threat intelligence feed. 
   - In the "Adding Local Rules" subsection, find the example for adding a local
 rule to the ruleset.
 Do you recognize the action in that rule? *(Answer: it's an alert.)*
 Do you recognize the header in that rule? *(Answer: it's "ip any any -> any any.")*
 Do you recognize any options in that rule? *(Answer: there are five options: msg, content, classtype, sid, and rev.)*
   - Follow the instructions to try out that example local rule!
-The last step is to use the CLI web client `curl` to invoke a "practice" attack from [testmynids.org](http://testmynids.org/).
+The last step is to use the CLI web client `curl` to invoke a "practice" attack from <a href="http://testmynids.org/" target="_blank" ref="noopener">testmynids.org</a>.
 To see if it worked, switch to your Security Onion Console, select Alerts, and see if you notice an alert produced by this new rule.
 (The text of the alert should match the text in the rule's `msg:` option.)
 - To begin to tune your ruleset, look for a "false positive" alert in your Security Onion Console.
