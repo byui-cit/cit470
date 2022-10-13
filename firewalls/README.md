@@ -68,4 +68,4 @@ Also upload your updated and annotated network diagram.
 Your team must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
 ## Example
-@@@ [Example will be loaded]
+[Example will be loaded]
