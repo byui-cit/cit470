@@ -1,4 +1,4 @@
-## Task: Above-and-beyond 4
+## Task: Above-and-Beyond 4
 Deploy an extra proxy server, using a different technology than you used for your team Proxy Server task.
 - For example, if your team deployed *Acrylic* and *Privoxy* on a Windows Server,
 redo that milestone, but instead deploy *unbound* and *squid* on a Linux server.
