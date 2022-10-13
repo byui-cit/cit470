@@ -1,7 +1,7 @@
 ## Task: Above-and-Beyond 8
 
 ## Tools
-- Same as those revealed in the [Penetration Testing Exercise](cit470/pentest).
+- Same as those revealed in the <a href="cit470/pentest" target="_blank" ref="noopener">Penetration Testing Exercise</a>.
 
 ## Requirements
 - After you and your team have accomplished *one* of the objectives that satisfies the Penetration Testing Exercise,
@@ -21,4 +21,4 @@ Upload an illustrated tutorial, in which you explain what you did and how you ac
 
 ## Hints
 - Complete your first objective in the Penetration Testing Exercise *before* you "go above and beyond" to tackle another objective.
-- The same hints, for the [Penetration Testing Exercise](cit470/pentest) team task, also apply to this individual above-and-beyond task.
+- The same hints, for the <a href="cit470/pentest" target="_blank" ref="noopener">Penetration Testing Exercise</a> team task, also apply to this individual above-and-beyond task.
