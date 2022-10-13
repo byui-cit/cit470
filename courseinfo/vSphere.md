@@ -1,4 +1,4 @@
-# CIT 470, Systems Security II
+# Systems Security II
 ## Tool: CIT department VMware infrastructure
 
 Students enrolled in selected courses
