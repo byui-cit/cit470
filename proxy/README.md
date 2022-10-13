@@ -1,11 +1,8 @@
-# CIT 470, Systems Security II
-## Proxy servers
-
-### Task
+## Task: Proxy servers
 Work with your team to deploy proxy services in your inside zone that relay DNS and web protocols,
 sufficient for your team's secure zone hosts to access the Internet and receive OS updates.
 
-### Tools
+## Tools
 The VMs you deployed to your inside and secure zones.
 
 ### Requirements
@@ -37,4 +34,4 @@ Upload an illustrated tutorial, in which you explain what your team did and how 
 Your team must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
 ### Hints
-@@@ TBD
+@@@ [Hints will be added by the Course Lead]
