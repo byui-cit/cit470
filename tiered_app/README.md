@@ -9,14 +9,14 @@ The web server redundancy will improve your app's availability,
 and with both web servers functioning properly,
 it should also scale your web app to be able to handle more simultaneous clients.
 
-### Tools
+## Tools
 - Use either <a href="https://mariadb.org/" target="_blank" rel="noopener">MariaDB</a> or <a href="https://www.mysql.com/" target="_blank" rel="noopener">MySQL</a> as the back-end database. Very likely,
 this will be easy to install using your Linux distribution's package manager.
 - Use either <a href="https://httpd.apache.org/" target="_blank" rel="noopener">Apache HTTP Server</a> or <a href="https://nginx.org/" target="_blank" rel="noopener">nginx</a> as your web server. Very likely,
 these will be easy to install using your Linux distribution's package manager.
 - Download the latest version of <a href="https://www.question2answer.org/" target="_blank" rel="noopener">Question2Answer</a> to your **dmz** web server.
 
-### Requirements
+## Requirements
 Phase I:
 - Install your database server on your **secure** Linux host.
 - Find, read, and follow the Question2Answer installation instructions.
@@ -55,18 +55,18 @@ when the original server is running but the clone is stopped,
 when the clone is running and the original is stopped,
 and when both web servers are running.
 
-### Deliverable
+## Deliverable
 Upload an illustrated tutorial, in which you explain what your team did and how you accomplished it.
 
 - Your document should be clear enough that one of your peers would be able to follow your instructions and accomplish the same tasks.
 - Identify any difficult or challenging parts of the project, and clearly explain how you diagnosed and overcame your obstacles.
 - Include a few cropped screen captures where appropriate. Also upload your updated and annotated network diagram.
 
-### Scoring Rubric
+## Scoring Rubric
 - If your tutorial satisfies every requirement outlined above, you will earn a passing score (one point).
 - If your tutorial does not satisfy any one of the above requirements, you will earn no points. Your team must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
-### Hints
+## Hints
 - All components for this app can be successfully installed and operated on either Linux or Windows servers;
 the hints below assume installation on Linux.
 - After your database first starts up, it's considered best practice to execute
@@ -121,7 +121,7 @@ then of course you would be forced to drop SELinux to `Permissive` mode to get t
 But after that, keep working on it, perhaps on a separate system, until you figure out how to make it work
 properly in `Enforcing` mode. Then show your success to your supervisor, and schedule a change request
 to make the appropriate changes and put the web server's SELinux mode back up to `Enforcing`.
-- A recommended web protocol load-balancer for Linux is [HAProxy](http://www.haproxy.org/),
+- A recommended web protocol load-balancer for Linux is <a href="http://www.haproxy.org/" target="_blank" ref="noopener">HAProxy</a>,
 deployed on a separate Linux host.
   - Don't keep the defaults that come with the sample `haproxy.cfg` configuration file.
 Instead, create your own `frontend` and `backend` configurations, with the load
