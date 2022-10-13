@@ -2,7 +2,7 @@
 Deploy an authoritative DNS server that resolves "localdomain" hostnames, and also deploy a DHCP server able to assign sticky leased addresses to your teams' endpoint hosts, along with DHCP proxy ("helper") functionality on a firewall to extend that service across security zones.
 
 ## Tools
-[CIT department VMware infrastructure](/cit470/courseinfo/vSphere)
+<a href="/cit470/courseinfo/vSphere" target="_blank" ref="noopener">CIT department VMware infrastructure</a>
 
 ## Requirements
 Make certain that you have met the following requirements:
