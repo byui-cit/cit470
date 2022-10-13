@@ -1,13 +1,10 @@
-# CIT 470, Systems Security II
-## Server VMs
-
-### Task
+## Task: Server VMs
 Work with your team to deploy and apply an initial configuration to six virtual servers.
 
-### Tools
-[CIT department VMware infrastructure](/cit470/courseinfo/vSphere)
+## Tools
+<a href="/cit470/courseinfo/vSphere" target="_blank" ref="noopener">CIT department VMware infrastructure</a>
 
-### Requirements
+## Requirements
 Agree with your team partner(s) on a naming convention for your servers.
 - All of your team's VM names should start with T##, where ## is your team's assigned number.
 - you might choose a token that identifies a server's OS, such as:
@@ -58,16 +55,16 @@ Make sure each server is renamed to match its VM name, according to your team's 
 (By default, your Windows Servers are assigned a random hostname such as WIN-A1B2C3D4E5 when they are first deployed,
 so you'll want to change that.)
 
-### Deliverable
+## Deliverable
 Upload an illustrated tutorial, in which you explain what your team did and how you accomplished it.
 - your document should be clear enough that one of your peers would be able to follow your instructions and accomplish the same tasks.
 - identify any difficult or challenging parts of the project, and clearly explain how you diagnosed and overcame your obstacles.
 - include a few cropped screen captures where appropriate.
 
-### Scoring Rubric
+## Scoring Rubric
 - If your tutorial satisfies every requirement outlined above, you will earn a passing score (one point).
 - If your tutorail does not satisfy any one of the above requirements, you will earn no points.
 Your team must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
-### Example
-@@@ TBD
+## Example
+@@@ [Will be added by the Course Lead]
