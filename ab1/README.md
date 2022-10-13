@@ -8,7 +8,7 @@ There are eight Above-and-beyond opportunities in this course.
 After completing this task, you will have a functional working mock-up on your local computer, which mimics many aspects of the network that you and your partner(s) build in the <a href="https://byui-cit.github.io/cit470/firewalls/" target="_blank" ref="noopener">Firewalls</a> team task.
 
 ## Tools
-- Sign up for a free gns3.com account: [https://www.gns3.com/account/login]<a href="https://www.gns3.com/account/login 
+- Sign up for a free gns3.com account: <a href="https://www.gns3.com/account/login" target="_blank" ref="noopener">https://www.gns3.com/account/login</a>
 - A desktop or laptop computer with at least 16GB RAM
 - A Type-II Hypervisor, suitable to run the KVM (kernel-virtual-machine) features of the GNS3 VM that accompanies the GNS3 application:
   - Oracle VirtualBox
