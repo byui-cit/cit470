@@ -1,4 +1,4 @@
-## Task: Above-and-beyond 1 Local GNS3
+## Task: Above-and-Beyond 1 Local GNS3
 Complete an optional project that creatively goes "above and beyond" the tasks you and your partner(s) are working on in your team projects.
 
 Students that achieve a passing grade with each of their team tasks and peer evaluations will pass the course with a C grade.
