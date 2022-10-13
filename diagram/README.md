@@ -1,7 +1,7 @@
-### Task
+## Task
 Create and maintain a professional-quality network diagram that documents your team's security architecture.
 
-### Software Tools
+## Software Tools
 *(Recommended)* Here are some links to web-based applications students have successfully used to create their diagrams:
 - [Cacoo](https://cacoo.com/)
 - [Lucidchart](https://www.lucidchart.com/pages)
@@ -24,7 +24,7 @@ It is also expensive, but BYU-Idaho students may obtain a copy of Visio software
 Microsoft Paint, or Inkscape, or Adobe Illustrator, or GIMP, or the "Word Art" features in Microsoft Word/PowerPoint, or printing a Cisco Packet Tracer diagram.
 Please don't use any of these for this task.
 
-### Requirements
+## Requirements
 - Include four security zones in your network diagram:
   - **"secure"** (*highest trust* - sensitive assets will be deployed in this zone)
   - **"inside"** (*ordinary trust* - assets such as regular user's machines will be deployed here)
@@ -44,15 +44,15 @@ Your firewalls will enforce network security policies for various endpoint machi
   - *Layer 4 information: port numbers*
   - *Layer 7 information: application identifiers*
 
-### Deliverable
+## Deliverable
 Upload an image, in either PDF or PNG file format, of your completed diagram.
 
-### Scores
+## Scores
 - If your diagram satisfies every requirement outlined above, you will earn a passing score (one point).
 - If your diagram does not satisfy any one of the above requirements, you will earn earn no points.
 You must then address any deficiencies and re-upload corrected diagrams until you earn the passing score.
 
-### Examples
+## Examples
 Here are some example diagram templates that were created using some of the tools mentioned above.
 (Notice most of the important information is left blank. Your team must "fill-in-the-blanks"
 with relevant information as the semester progresses, but you should already have the relevant
