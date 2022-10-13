@@ -22,7 +22,7 @@ After completing this task, you will have a functional working mock-up on your l
 and choose to work on different above-and-beyond opportunities. There are still enough opportunities to earn the
 grade you desire, so don't fret if you are unable to complete this GNS3 project.*
 
-### Requirements
+## Requirements
 - Install the GNS3 VM, and verify that it has KVM support available.
 - Install the GNS3 application, and configure it to use the GNS3 VM for appliance images.
 - Create a working mock-up of your network diagram, including the following nodes:
