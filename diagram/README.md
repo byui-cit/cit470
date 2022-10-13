@@ -1,24 +1,24 @@
-## Task
+## Task: Diagram
 Create and maintain a professional-quality network diagram that documents your team's security architecture.
 
 ## Software Tools
 *(Recommended)* Here are some links to web-based applications students have successfully used to create their diagrams:
-- [Cacoo](https://cacoo.com/)
-- [Lucidchart](https://www.lucidchart.com/pages)
-- [diagrams.net](https://app.diagrams.net/)
+- <a href="https://cacoo.com/" target="_blank" ref="noopener">Cacoo</a>
+- <a href="https://www.lucidchart.com/pages" target="_blank" ref="noopener">Lucidchart</a>
+- <a href="https://app.diagrams.net/" target="_blank" ref="noopener">diagrams.net</a>
 
 *(Optional)* You may also install and use desktop workstation software to create a network diagram. Examples:
 - Microsoft Visio. This is the premier diagramming tool used by industry network and security professionals.
 It's a little challenging to learn, so Visio proficiency looks attractive on a job-seeker's résumé.
 It is also expensive, but BYU-Idaho students may obtain a copy of Visio software at no cost:
-  - visit [Microsoft Azure Dev Tools for Teaching](https://azureforeducation.microsoft.com/devtools),
+  - visit <a href="https://azureforeducation.microsoft.com/devtools" target="_blank" ref="noopener">Microsoft Azure Dev Tools for Teaching</a>,
   - sign in with BYU-Idaho credentials,
   - select "Software" from the menu at the left of the Azure Education web page,
   - select one of the available editions of Visio Professional,
   - click **[Download]** to download the installer and **[View Key]** to obtain your product license activation key.
-- [yEd](https://www.yworks.com/products/yed) (free download)
-- [Dia](https://wiki.gnome.org/Apps/Dia) (free download)
-- [OmniGraffle](https://www.omnigroup.com/omnigraffle). (This tool is for MacOS users only, and is expensive, but has wide use among IT Professionals.)
+- <a href="https://www.yworks.com/products/yed" target="_blank" ref="noopener">yEd</a> (free download)
+- <a href="https://wiki.gnome.org/Apps/Dia" target="_blank" ref="noopener">Dia</a> (free download)
+- <a href="https://www.omnigroup.com/omnigraffle" target="_blank" ref="noopener">OmniGraffle</a> (This tool is for MacOS users only, and is expensive, but has wide use among IT Professionals.)
 
 *(Not Recommended)* It is possible to make network diagrams using general purpose drawing tools such as
 Microsoft Paint, or Inkscape, or Adobe Illustrator, or GIMP, or the "Word Art" features in Microsoft Word/PowerPoint, or printing a Cisco Packet Tracer diagram.
