@@ -1,4 +1,4 @@
-## Task: Above-and-beyond 3
+## Task: Above-and-Beyond 3
 Deploy an authoritative DNS server that resolves "localdomain" hostnames, and also deploy a DHCP server able to assign sticky leased addresses to your teams' endpoint hosts, along with DHCP proxy ("helper") functionality on a firewall to extend that service across security zones.
 
 ## Tools
