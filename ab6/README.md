@@ -1,14 +1,20 @@
 ## Task: Above-and-Beyond 6 (HIDS Sensor)
-Now that your team is working on (or has successfully deployed) a Network Intrustion Detection sensor,
-deploy and test a Host-based Intrustion Detection System as an individual above-and-beyond task.
+Now that your team is working on (or has successfully deployed) a Network Intrustion Detection System (NIDS) sensor,
+deploy and test a Host-based Intrustion Detection System (HIDS) as an individual above-and-beyond task.
 
 ## Tools
 Choose a HIDS platform.
-- Recommended: deploy an <a href="https://www.ossec.net/" target="_blank" ref="noopener">OSSEC</a> HIDS server on a **secure** zone Linux VM.
+- Recommended: deploy an
+<a href="https://www.ossec.net/" target="_blank" ref="noopener">OSSEC</a>
+HIDS server on a **secure** zone Linux VM.
 - Other options:
-  - use the <a href="https://wazuh.com/" target="_blank" ref="noopener">Wazuh</a> service already installed on your Security Onion VM.
+  - use the
+<a href="https://wazuh.com/" target="_blank" ref="noopener">Wazuh</a>
+service already installed on your Security Onion VM.
   - deploy a standalone Wazuh HIDS server on one of your other **secure** zone Linux VMs.
-  - (There are other no-cost HIDS solutions. If you know of one and want to try it, message your instructor and ask if you can implement it for this task.)
+  - (There are other no-cost HIDS solutions.
+If you know of one and want to try it,
+message your instructor and ask if you can implement it for this task.)
 
 ## Requirements
 - Configure and activate a HIDS server.
