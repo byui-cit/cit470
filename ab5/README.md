@@ -8,7 +8,7 @@ then configure your team's Remote Access VPN service to use that RADIUS server t
 <a href="https://freeradius.org/" target="_blank" ref="noopener">FreeRADIUS</a> software.
 (Note: FreeRADIUS is already available in most Linux distributions' software repositories.
 Use `apt search freeradius` to find it in a Debian-based distribution, or
-`dnf search freeradius` to find it in a Red Hat-based distribution.)
+`dnf search freeradius` to look for it in a Red Hat-based distribution.)
   - FreeRadius is quite simple to set up, but there are other no-cost Radius solutions out there.
 If you find one that your team would rather try out, message your instructor and propose your alternative RADIUS software.
 
