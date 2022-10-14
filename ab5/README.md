@@ -36,9 +36,9 @@ Upload an illustrated tutorial, in which you explain what your team did and how 
 - For this lab task, just keep your RADIUS configuration simple.
 Let your local user database be a plaintext configuration file that contains usernames and passwords.
   - *(Note: in an enterprise deployment, a plaintext username/password data table would **not** be acceptable.
-IT professionals would look for a way to encrypt the username/password configuration, rather than just leave it in plaintext.
-In fact, most IT professionals would instead configure the RADIUS server to be a proxy to some other secure authentication service,
-such as a Microsoft Active Directory domain controller.
+Competent IT security professionals would look for a way to encrypt the username/password configuration, rather than just leave it in plaintext.
+In fact, most professionals would instead configure the RADIUS server to act as a proxy to some other secure authentication service,
+such as a Microsoft Active Directory domain controller, or an LDAP authenticator, or a TACACS server.
 That way there would be no need to store confidential username/password credentials on the RADIUS server itself.)*
 - The current standard default ports for RADIUS protocol traffic are 1812/udp and 1813/udp.
 However, you may find RADIUS implementations that use the older legacy ports 1645/udp and 1646/udp.
