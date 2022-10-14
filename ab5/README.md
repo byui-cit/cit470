@@ -1,6 +1,6 @@
 ## Task: Above-and-Beyond 5
 Implement an **802.1x** "Remote-Access Dial-in User Service" (RADIUS) authenticator,
-then configure your team's Remote Access VPN service to use that RADIUS server to authenitcate remote access clients.
+then configure your team's Remote Access VPN service to use that RADIUS server to authenticate remote access clients.
 
 ## Tools
 - Your Internet-facing firewall
@@ -45,3 +45,8 @@ However, you may find RADIUS implementations that use the older legacy ports 164
 Make sure you know whether the RADIUS client on your firewall expects to use current or legacy ports for its RADIUS messages,
 and that you configure your secure-facing firewall and your RADIUS server to use the expected port numbers.
 - There is a `radius-test` command-line client you can use to test your RADIUS server; use it as a local troubleshooting tool.
+- *Note for those familiar with AAA jargon:
+In general, RADIUS servers don't differentiate between authentication ("AuthN") and authorization ("AuthZ").
+As far as RADIUS is concerned, a successful username/password both authenticates and authorizes.
+It's up to the RADIUS **client** (in this case, the Internet-facing firewall)
+to determine whether a properly authenticated user is authorized to use a service (in this case, the Remote-Access VPN service).*
