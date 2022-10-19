@@ -15,7 +15,7 @@ Select each link below to view requirements for each Team Task and for each Abov
 - <a href="firewalls/" target="_blank" ref="noopener">Team Task: Firewalls</a>
   - <a href="ab1/" target="_blank" ref="noopener">Above & Beyond Opportunity 1</a>
   - <a href="ab2/" target="_blank" ref="noopener">Above & Beyond Opportunity 2</a>
-- Peer Evaluation 1 (Teamwork "soft skills" checkpoint)
+- <a href="peer_eval/" target="_blank" ref="noopener">Peer Evaluation 1</a> (Teamwork "soft skills" checkpoint)
 
 ### (Module 02) Availability: Proxies, Firewall Policies, and Load Balancing
 
@@ -23,7 +23,7 @@ Select each link below to view requirements for each Team Task and for each Abov
 - <a href="tiered_app/" target="_blank" ref="noopener">Team Task: Tiered App</a>
   - <a href="ab3/" target="_blank" ref="noopener">Above & Beyond Opportunity 3</a>
   - <a href="ab4/" target="_blank" ref="noopener">Above & Beyond Opportunity 4</a>
-- Peer Evaluation 2 (Teamwork "soft skills" checkpoint)
+- <a href="peer_eval/" target="_blank" ref="noopener">Peer Evaluation 2</a> (Teamwork "soft skills" checkpoint)
 
 ### (Module 03) Access: VPNs, IAM
 
@@ -41,7 +41,7 @@ Select each link below to view requirements for each Team Task and for each Abov
 - <a href="SNMP_network_monitor/" target="_blank" ref="noopener">Team Task: SNMP Network Monitor</a>
 - <a href="siem/" target="_blank" ref="noopener">Team Task: SIEM</a>
   - <a href="ab7/" target="_blank" ref="noopener">Above & Beyond Opportunity 7</a>
-- Peer Evaluation 3 (Teamwork "soft skills" checkpoint)
+- <a href="peer_eval/" target="_blank" ref="noopener">Peer Evaluation 3</a> (Teamwork "soft skills" checkpoint)
 
 ### (Module 06) PTES: Vulnerabilities, Exploits
 
