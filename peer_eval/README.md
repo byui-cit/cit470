@@ -31,7 +31,12 @@ To earn full credit:
 - make your answer thoughtful, respectful, and meaningful;
 - offer *evidence* to support your answer.
 
-> (If an answer is: <br /><ul><li>long and rambling, or</li><li>frivolous, disrespectful, or light-minded, or</li><li>without written evidence to back up your assessment</li></ul> then your instructor may only award fractions of points, rather than full credit.)
+(If an answer is:
+- long and rambling, or
+- frivolous, disrespectful, or light-minded, or
+- without written evidence to back up your assessment
+
+then your instructor may only award fractions of points, rather than full credit.)
 
 ## Hints
 Please watch the following two videos to get some ideas about "soft skills" you may choose to cultivate and evaluate:
