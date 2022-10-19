@@ -36,9 +36,9 @@ To earn full credit:
 ## Hints
 Please watch the following two videos to get some ideas about "soft skills" you may choose to cultivate and evaluate:
 
-- Human skills, useful skills, real skills ... soft skills, by IT marketing executive and author Seth Godin.
+- *Human skills, useful skills, real skills ... soft skills*, by IT marketing executive and author Seth Godin.
   - <a href="https://vimeo.com/297182889" target="_blank" ref="noopener">vimeo.com/297182889</a>
 (video duration: 4:02)
-- DevOps Soft Skills, by cyber security expert Mayur Rele.
+- *DevOps Soft Skills*, by cyber security expert Mayur Rele.
   - <a href="https://vimeo.com/693019243" target="_blank" ref="noopener">vimeo.com/693019243</a>
-(video duration: 3:14)
+(video duration: 3:14) (<a href="http://mayurrele.com/devops-soft-skills/" target="_blank" ref="noopener">transcript</a>)
