@@ -2,7 +2,7 @@
 ## Semester Project Tasks
 ### "Table of Contents"
 
-Outlined here are the course modules,
+Outlined here are the course modules (or "course units"),
 with the **Team Tasks**, **Above and Beyond Opportunities**, and **Peer Evaluations** in each module.
 
 Select each link below to view requirements for each Team Task and for each Above & Beyond task.
