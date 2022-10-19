@@ -5,7 +5,7 @@
 Outlined here are the course modules,
 with the **Team Tasks**, **Above and Beyond Opportunities**, and **Peer Evaluations** in each module.
 
-Select the links below to see requirements for each Team Task and for each Above & Beyond task.
+Select each link below to view requirements for each Team Task and for each Above & Beyond task.
 
 ## Outcomes (Course Units)
 
