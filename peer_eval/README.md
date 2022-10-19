@@ -40,5 +40,5 @@ Please watch the following two videos to get some ideas about "soft skills" you 
   - <a href="https://vimeo.com/297182889" target="_blank" ref="noopener">vimeo.com/297182889</a>
 (video duration: 4:02)
 - DevOps Soft Skills, by cyber security expert Mayur Rele.
-  - <a href="https://vimeo.com/693019243" target="_blank" ref="noopener">https://vimeo.com/693019243</a>
+  - <a href="https://vimeo.com/693019243" target="_blank" ref="noopener">vimeo.com/693019243</a>
 (video duration: 3:14)
