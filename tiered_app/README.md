@@ -125,7 +125,7 @@ to make the appropriate changes and put the web server's SELinux mode back up to
 deployed on a separate Linux host.
   - Don't keep the defaults that come with the sample `haproxy.cfg` configuration file.
 Instead, create your own `frontend` and `backend` configurations, with the load
-balancer "frontend" bound to port 80/tcp, and each web server "backend" also listening on port 80/tcp.
+balancer "frontend" bound to port 80/tcp, and each web server "backend" also relaying through port 80/tcp.
   - HAProxy's "Round Robin" balancing algorithm is a good choice, and there are a couple of ways to
 verify that round-robin is working:
     1. Enable network logging for your load balancer host's rsyslog service,
