@@ -19,7 +19,7 @@ href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/16351237/How+to+Insta
 ### Required: Sign into CIT vSphere ###
 *Note: vSphere runs on a privately addressed server, so it is only available **after** you successfully engage your VPN conneciton.*
 
-After connect to the department's VPN service using GlobalProtect, use your BYU-I credentials to log into vSphere:
+After connecting to the department's VPN service using GlobalProtect, use your BYU-I credentials to log into vSphere:
 <a href="https://vctr.c.cit.byui.edu/ui/" target="_blank" ref="noopener">https://vctr.c.cit.byui.edu/ui/</a>
 
 ## Quick Survey of the CIT VMware Infrastructure, using the vSphere web interface ##
