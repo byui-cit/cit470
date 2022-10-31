@@ -43,7 +43,7 @@ Select the fourth icon, Networks.
 Then expand the tree-list structure to find and select the distributed virtual switch named **CIT_DSwitch**,
 and select the Networks tab:
 
-![image, Networks](vSphere--networks.png)
+![image, Networks](vSphere-networks.png)
 
 You should find a table that lists the virtual local area networks (VLANs) assigned to your team, along with their VLAN ID numbers.
 Your should use these VLAN access numbers when you record "layer two" VLAN labels on your team's network diagrams.
