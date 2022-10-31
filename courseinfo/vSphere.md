@@ -20,24 +20,27 @@ After you use GlobalProtect to connect to the department's VPN service, use your
 <a href="https://vctr.c.cit.byui.edu/ui/" target="_blank" ref="noopener">https://vctr.c.cit.byui.edu/ui/</a>
 
 From the 'hamburger' ( ≡ ) menu, select *Inventory*:
+![image, vSphere hamburger menu](vSphere-hamburger-inventory.png)
 
 The panel you should see on the left side of the web interface has four pictographic icons at the top:
 1. Hosts and Clusters
 2. VMs and Templates
 3. Storage
 4. Networks
-Most of your work will happen under the second icon, VMs and Templates.
-Expand the tree-list structure to find the CIT-470-Security folder, and within it, your team's subfolder:
+Most of your work will happen under the second icon, VMs and Templates:
+![image, VMs and Templates](vSphere-vms-templates.png)
 
-This is where you and your teammates will deploy your virtual servers. You will also find a Templates subfolder:
-
+Expand the tree-list structure to find the CIT-470-Security folder, and within it, your team's subfolder.
+This is where you and your teammates will deploy your virtual servers. You will also find a Templates subfolder.
 This is where you will find a generic server template.
 
 Select the third icon, Storage:
+![image, Storage](vSphere-storage.png)
 
 This shows the CIT department's storage-area-network (SAN) resources.
 Expand the tree-list structure to find four storage containers, and select the one with **v103** in its name.
 Then select the **Files** tab, and select the folder named **!-ISOs** (pronounced *bang-ISOs*):
+![image, Storage, AlmaLinux selected](vSphere-storage-almalinux.png)
 
 You will see a collection of installation images for various operating systems.
 The two Linux distributions we recommend for CIT 470 students are **AlmaLinux OS** version 8 and **Ubuntu Server** version 22.
@@ -55,6 +58,8 @@ then Ubuntu Server will feel familiar.
 
 Select the storage container with **v101** in its name.
 Then select the folder named **!-ISOs**.
+![image, Storage, Windows Server 2022 selected](vSphere-storage-ws2022.png)
+
 The Windows edition we recommend for CIT 470 students is **Windows Server 2022**; find its installation image file **Server2022Eval.iso**.
 - A Windows Server evaluation license expires after 120 days.
 (Fortunately, BYU-Idaho semesters are about 100 days long, so you won't need to worry about upgrading the license for this course.
