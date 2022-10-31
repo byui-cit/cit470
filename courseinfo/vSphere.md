@@ -28,6 +28,7 @@ The panel you should see on the left side of the web interface has four pictogra
 2. VMs and Templates
 3. Storage
 4. Networks
+
 Most of your work will happen under the second icon, VMs and Templates:
 
 ![image, VMs and Templates](vSphere-vms-templates.png)
