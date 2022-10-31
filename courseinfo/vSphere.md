@@ -55,11 +55,14 @@ Browse the collection and find the .iso installers for each of these.
   - If you or your teammates have more experience with Red Hat style distributions,
 such as Red Hat Enterprise, Oracle Linux, CentOS, Fedora, Rocky, etc.
 then AlmaLinux will feel familiar.
-  - The *SELinux* (security enhanced Linux) activities in this course are designed with AlmaLinux OS in mind.
 - Unbuntu Server uses Debian packages (.deb files) for software distribution and `apt` ("advanced package toolkit") for software package management.
   - If you or your teammates have experience with Debian style distributions,
 such as Debian, Kali, Ubuntu, Raspberry Pi OS, Devuan, etc.
 then Ubuntu Server will feel familiar.
+
+>Your team doesn't have to use both Linux variants, but it's probably good for your career to maintain skills using both of the software package formats.
+The *SELinux* (security enhanced Linux) activities in this course are designed for an AlmaLinux OS web server,
+so it would be helpful for your team to deploy at least one such server.
 
 Select the storage container with **v101** in its name.
 Then select the folder named **!-ISOs**.
