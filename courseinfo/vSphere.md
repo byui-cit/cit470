@@ -1,7 +1,7 @@
 # Systems Security II
 ## Tools: CIT department VPN and VMware infrastructure
 
-When they are enrolled in selected courses,
+While enrolled in selected courses,
 students manage virtual machines in a private VMware infrastructure operated by BYU-Idaho's CIT department.
 Our infrastructure consists of clusters of enterprise-grade server hardware,
 integrated with the following VMware products:
