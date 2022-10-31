@@ -29,6 +29,7 @@ The panel you should see on the left side of the web interface has four pictogra
 3. Storage
 4. Networks
 
+### Explore the VMs and Templates web user interface ###
 Most of your work will happen under the second icon, VMs and Templates:
 
 ![image, VMs and Templates](vSphere-vms-templates.png)
@@ -37,6 +38,17 @@ Expand the tree-list structure to find the CIT-470-Security folder, and within i
 This is where you and your teammates will deploy your virtual servers. You will also find a Templates subfolder.
 This is where you will find a generic server template.
 
+### Explore the Newtorks web user interfae ###
+Select the fourth icon, Networks.
+Then expand the tree-list structure to find and select the distributed virtual switch named **CIT_DSwitch**,
+and select the Networks tab:
+
+![image, Networks](vSphere--networks.png)
+
+You should find a table that lists the virtual local area networks (VLANs) assigned to your team, along with their VLAN ID numbers.
+Your should use these VLAN access numbers when you record "layer two" VLAN labels on your team's network diagrams.
+
+### Explore the Storage web user interface ###
 Select the third icon, Storage:
 
 ![image, Storage](vSphere-storage.png)
