@@ -72,12 +72,13 @@ Expand the tree-list structure to find four storage containers, and select the o
 Then select the **Files** tab, and select the folder named **!-ISOs** (pronounced *bang-ISOs*).
 You will see a collection of installation images for various operating systems.
 
-The Windows edition we recommend for CIT 470 students is **Windows Server 2022**; find its installation image file.
-Its name starts with **en-us_windows_server_2022_updated**.
+The Windows edition recommended for CIT 470 students is **Windows Server 2022**. Find its installation image file.
+
+(Its name starts with **en-us_windows_server_2022_updated**.)
 
 ![image, Storage, Windows Server 2022 selected](vSphere-storage-ws2022.png)
 
-With this image, the "generic server template" can be used to deploy a Windows Server.
+With this image, the "generic template" can be used to deploy a Windows Server.
 - A Windows Server evaluation license expires after 120 days.
 (Fortunately, BYU-Idaho semesters are about 100 days long, so you won't need to worry about upgrading the license for this course.
 But when you use Windows Server products later on in your career, you or your employer will need to purchase server licenses from Microsoft.)
@@ -88,7 +89,7 @@ Browse the collection and find the .iso installers for each of these:
 
 ![image, Storage, AlmaLinux selected](vSphere-storage-almalinux.png)
 
-The "generic server template" can be used to deploy either of these Linux variants.
+The "generic template" can be used to deploy either of these Linux variants.
 
 - AlmaLinux OS uses Red Hat Packages (.rpm files) for software distribution and `dnf` ("dandified") to manage software packages.
   - If you or your teammate has more experience with Red Hat style distributions,
