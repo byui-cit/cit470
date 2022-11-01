@@ -79,9 +79,10 @@ The Windows edition recommended for CIT 470 students is **Windows Server 2022**.
 ![image, Storage, Windows Server 2022 selected](vSphere-storage-ws2022.png)
 
 With this image, the "generic template" can be used to deploy a Windows Server.
-- A Windows Server evaluation license expires after 120 days.
-(Fortunately, BYU-Idaho semesters are about 100 days long, so you won't need to worry about upgrading the license for this course.
-But when you use Windows Server products later on in your career, you or your employer will need to purchase server licenses from Microsoft.)
+>A Windows Server evaluation license expires after 120 days.
+Fortunately, BYU-Idaho semesters are about 100 days long, so you won't need to worry about upgrading the license for this course.
+But when you use Windows Server products later on in your career, you or your employer will need to purchase server licenses from Microsoft.
+It's probably good for your career to maintain skills for using Windows Servers.
 
 ### vSphere: Find Linux installation images files ###
 The two Linux distributions we recommend for CIT 470 students are **AlmaLinux OS** version 8 and **Ubuntu Server** version 22.
@@ -100,6 +101,6 @@ then AlmaLinux will feel familiar.
 such as Debian, Kali, Ubuntu, Raspberry Pi OS, Devuan, etc.
 then Ubuntu Server will feel familiar.
 
->Your team doesn't have to use both Linux variants, but it's probably good for your career to maintain skills using both of the software package formats.
+>Your team doesn't have to use both variants, but it's probably good for your career to maintain skills using both of the popular Linux software package formats.
 The *SELinux* (security enhanced Linux) activities in this course are designed for an AlmaLinux OS web server,
 so it might be helpful for your team to deploy at least one AlmaLinux server as a DMZ endpoint.
