@@ -72,7 +72,8 @@ Expand the tree-list structure to find four storage containers, and select the o
 Then select the **Files** tab, and select the folder named **!-ISOs** (pronounced *bang-ISOs*).
 You will see a collection of installation images for various operating systems.
 
-The Windows edition we recommend for CIT 470 students is **Windows Server 2022**; find its installation image file **en-us_windows_server_2022_updated...**.
+The Windows edition we recommend for CIT 470 students is **Windows Server 2022**; find its installation image file.
+Its name starts with **en-us_windows_server_2022_updated**.
 
 ![image, Storage, Windows Server 2022 selected](vSphere-storage-ws2022.png)
 
