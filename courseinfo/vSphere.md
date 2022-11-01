@@ -93,11 +93,11 @@ Browse the collection and find the .iso installers for each of these:
 The "generic template" can be used to deploy either of these Linux variants.
 
 - AlmaLinux OS uses Red Hat Packages (.rpm files) for software distribution and `dnf` ("dandified") to manage software packages.
-  - If you or your teammate has more experience with Red Hat style distributions,
+  - If you have experience with Red Hat style distributions,
 such as Red Hat Enterprise, Oracle Linux, CentOS, Fedora, Rocky, etc.
 then AlmaLinux will feel familiar.
 - Unbuntu Server uses Debian packages (.deb files) for software distribution and `apt` ("advanced package toolkit") for software package management.
-  - If you or your teammate has experience with Debian style distributions,
+  - If you have experience with Debian style distributions,
 such as Debian, Kali, Ubuntu, Raspberry Pi OS, Devuan, etc.
 then Ubuntu Server will feel familiar.
 
