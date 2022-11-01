@@ -67,7 +67,7 @@ Select the third icon, Storage:
 
 This shows the CIT department's storage-area-network (SAN) resources.
 
-### vSphere: find a Windows Server installation image file ###
+### vSphere: Find a Windows Server installation image file ###
 Expand the tree-list structure to find four storage containers, and select the one with **v103** in its name.
 Then select the **Files** tab, and select the folder named **!-ISOs** (pronounced *bang-ISOs*).
 You will see a collection of installation images for various operating systems.
@@ -81,7 +81,7 @@ With this image, the "generic server template" can be used to deploy a Windows S
 (Fortunately, BYU-Idaho semesters are about 100 days long, so you won't need to worry about upgrading the license for this course.
 But when you use Windows Server products later on in your career, you or your employer will need to purchase server licenses from Microsoft.)
 
-### vSphere: find Linux installation images files ###
+### vSphere: Find Linux installation images files ###
 The two Linux distributions we recommend for CIT 470 students are **AlmaLinux OS** version 8 and **Ubuntu Server** version 22.
 Browse the collection and find the .iso installers for each of these:
 
