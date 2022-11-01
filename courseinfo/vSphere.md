@@ -22,7 +22,7 @@ href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/16351237/How+to+Insta
 After connecting to the department's VPN service using GlobalProtect, use your BYU-I credentials to log into vSphere:
 <a href="https://vctr.c.cit.byui.edu/ui/" target="_blank" ref="noopener">https://vctr.c.cit.byui.edu/ui/</a>
 
-## Quick Survey of the CIT VMware Infrastructure, using the vSphere web interface ##
+## Quick tour of the CIT VMware Infrastructure, using the vSphere web interface ##
 
 From the 'hamburger' ( ≡ ) menu, select *Inventory*:
 
@@ -66,14 +66,27 @@ Select the third icon, Storage:
 ![image, Storage](vSphere-storage.png)
 
 This shows the CIT department's storage-area-network (SAN) resources.
+
+### vSphere: find a Windows Server installation image file ###
 Expand the tree-list structure to find four storage containers, and select the one with **v103** in its name.
-Then select the **Files** tab, and select the folder named **!-ISOs** (pronounced *bang-ISOs*):
+Then select the **Files** tab, and select the folder named **!-ISOs** (pronounced *bang-ISOs*).
+You will see a collection of installation images for various operating systems.
+
+The Windows edition we recommend for CIT 470 students is **Windows Server 2022**; find its installation image file **en-us_windows_server_2022_updated...**.
+
+![image, Storage, Windows Server 2022 selected](vSphere-storage-ws2022.png)
+
+With this image, the "generic server template" can be used to deploy a Windows Server.
+- A Windows Server evaluation license expires after 120 days.
+(Fortunately, BYU-Idaho semesters are about 100 days long, so you won't need to worry about upgrading the license for this course.
+But when you use Windows Server products later on in your career, you or your employer will need to purchase server licenses from Microsoft.)
+
+### vSphere: find Linux installation images files ###
+The two Linux distributions we recommend for CIT 470 students are **AlmaLinux OS** version 8 and **Ubuntu Server** version 22.
+Browse the collection and find the .iso installers for each of these:
 
 ![image, Storage, AlmaLinux selected](vSphere-storage-almalinux.png)
 
-You will see a collection of installation images for various operating systems.
-The two Linux distributions we recommend for CIT 470 students are **AlmaLinux OS** version 8 and **Ubuntu Server** version 22.
-Browse the collection and find the .iso installers for each of these.
 The "generic server template" can be used to deploy either of these Linux variants.
 
 - AlmaLinux OS uses Red Hat Packages (.rpm files) for software distribution and `dnf` ("dandified") to manage software packages.
@@ -88,15 +101,3 @@ then Ubuntu Server will feel familiar.
 >Your team doesn't have to use both Linux variants, but it's probably good for your career to maintain skills using both of the software package formats.
 The *SELinux* (security enhanced Linux) activities in this course are designed for an AlmaLinux OS web server,
 so it might be helpful for your team to deploy at least one AlmaLinux server as a DMZ endpoint.
-
-Select the storage container with **v101** in its name.
-Then select the folder named **!-ISOs**.
-
-![image, Storage, Windows Server 2022 selected](vSphere-storage-ws2022.png)
-
-The Windows edition we recommend for CIT 470 students is **Windows Server 2022**; find its installation image file **Server2022Eval.iso**.
-With this image, the "generic server template" can also be used to deploy a Windows Server.
-- A Windows Server evaluation license expires after 120 days.
-(Fortunately, BYU-Idaho semesters are about 100 days long, so you won't need to worry about upgrading the license for this course.
-But when you use Windows Server products later on in your career, you or your employer will need to purchase server licenses from Microsoft.)
-
