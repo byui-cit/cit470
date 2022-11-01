@@ -18,14 +18,14 @@ Agree with your team partner(s) on a naming convention for your servers.
     - T12-inside-windows
     - T12-WS-I
   depending on the team's chosen naming convention.
-  - a CentOS Linux server in Team 11's DMZ earmarked for load balancing duty might be named something like:
-    - T11-D-CL2
-    - T11-centos-dmz-loadbal
+  - An AlmaLinux server in Team 11's DMZ earmarked for load balancing duty might be named something like:
+    - T11-D-AL2
+    - T11-alma-dmz-loadbal
   depending on the team's chosen naming convention.
 
 Agree with your team partner(s) on a secure way to share service account passwords with each other.
 For example, you might want to use a cloud-based password manager that only members of your team can access.
-(KeePass might be a good option for this,
+(<a href="https://keepass.info/download.html" target="_blank" ref="noopener">KeePass</a> might be a good option for this,
 with a shared password database stored in a cloud storage service such as
 Microsoft OneDrive or Google Drive,
 and shared to all team members, so that all can access it with their own copy of KeePass software.)
