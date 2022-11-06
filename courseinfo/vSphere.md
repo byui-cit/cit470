@@ -14,7 +14,7 @@ As a CIT 470 student, you will use vSphere to create and operate virtual servers
 ### Required: Use GlobalProtect software to engage a VPN connection ###
 VPN connection instructions:
 <a
-href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/16351237/How+to+Install+VPN+Client+for+CIT+Firewall" target="_blank" ref="noopener">How to Install VPN Client for CIT Firewall</a>
+href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/16351237/" target="_blank" ref="noopener">How to Install VPN Client for CIT Firewall</a>
 
 ### Required: Sign into CIT vSphere ###
 *Note: vSphere runs on a privately addressed server, so it is only available **after** you successfully engage your VPN conneciton.*
