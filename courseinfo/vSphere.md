@@ -78,7 +78,7 @@ The Windows edition recommended for CIT 470 students is **Windows Server 2022**.
 
 ![image, Storage, Windows Server 2022 selected](vSphere-storage-ws2022.png)
 
-With this image, the "generic template" can be used to deploy a Windows Server.
+With this image, the "generic template" can be modified and used to deploy a Windows Server.
 >A Windows Server evaluation license expires after 120 days.
 Fortunately, BYU-Idaho semesters are about 100 days long, so you won't need to worry about upgrading the license for this course.
 But when you use Windows Server products later on in your career, you or your employer will need to purchase server licenses from Microsoft.
