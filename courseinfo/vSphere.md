@@ -101,6 +101,6 @@ then AlmaLinux will feel familiar.
 such as Debian, Kali, Ubuntu, Raspberry Pi OS, Devuan, etc.
 then Ubuntu Server will feel familiar.
 
->Your team doesn't have to use both variants, but it's probably good for your career to maintain skills using both of the popular Linux software package formats.
+>Your team doesn't need to use both variants, but it's probably good for your career to maintain skills using both of the popular Linux software package formats.
 The *SELinux* (security enhanced Linux) activities in this course are designed for an AlmaLinux OS web server,
 so it might be helpful for your team to deploy at least one AlmaLinux server as a DMZ endpoint.
