@@ -1,22 +1,28 @@
-## Task: Above-and-Beyond 1 Local GNS3
+## Task: Above-and-Beyond 1: Local GNS3
 Complete an optional project that creatively goes "above and beyond" the tasks you and your partner(s) are working on in your team projects.
 
 Students that achieve a passing grade with each of their team tasks and peer evaluations will pass the course with a C grade.
 Above-and-beyond tasks are projects that students may accomplish individually.
 There are eight Above-and-beyond opportunities in this course.
 
-After completing this task, you will have a functional working mock-up on your local computer, which mimics many aspects of the network that you and your partner(s) build in the <a href="https://byui-cit.github.io/cit470/firewalls/" target="_blank" ref="noopener">Firewalls</a> team task.
+After completing this task,
+your own computer will have a functional working mock-up of your team's infrastructure.
+Your mock-up will mimic many aspects of the network that you and your partner(s) build
+in the <a href="https://byui-cit.github.io/cit470/firewalls/" target="_blank" ref="noopener">Firewalls</a> team task.
 
 ## Tools
 - Sign up for a free gns3.com account: <a href="https://www.gns3.com/account/login" target="_blank" ref="noopener">https://www.gns3.com/account/login</a>
 - A desktop or laptop computer with at least 16GB RAM
 - A Type-II Hypervisor, suitable to run the KVM (kernel-virtual-machine) features of the GNS3 VM that accompanies the GNS3 application:
   - Oracle VirtualBox
-  - VMware Workstation Player or VMware Fusion Player
+  - VMware Workstation Player (Windows) or VMware Fusion Player (macOS)
   - Microsoft Hyper-V Manager
 - GNS3 software components:
-  - The GNS3 application: <a href="https://www.gns3.com/software/download" target="_blank" rel="noopener">https://www.gns3.com/software/download</a>
   - The GNS3 VM: <a href="https://www.gns3.com/software/download-vm" target="_blank" rel="noopener">https://www.gns3.com/software/download-vm</a> 
+  - The GNS3 application: <a href="https://www.gns3.com/software/download" target="_blank" rel="noopener">https://www.gns3.com/software/download</a>
+    - *(If you are using an Intel-based Apple computer running macOS,
+you will also need to download and install Royal TSX,
+then launch Royal TSX and install its VNC plugin component.)*
 
 *If your computer isn't capable of satisfying all of these requirements, you should defer this project
 and choose to work on different above-and-beyond opportunities. There are still enough opportunities to earn the
@@ -67,8 +73,9 @@ Your must then address any deficiencies and re-upload corrected documents until 
   - The "webterm" endpoint is not available by default.
 To download the webterm template, select "New template" from the file menu, and choose to install from the GNS3 server.
 You'll find it in the list of guest appliances.
-  - No security devices are available by default.
+  - No routing or security devices are pre-installed with GHS3 by default.
 To download a firewall device, select "New template" from the file menu, and choose to install from the GNS3 server.
-Suitable free security device options include: IPFire, OPNsense, OpenWrt, pfSense, Untangle NG, or VyOS.
-Virtual appliances image files for these devices must be downloaded and imported separately.
-(Note: most of the remaining available firewalls and routers are commercial VMs that require purchased licenses.)
+    - Recommend free firewall templates include: OPNsense or pfSense.
+    - Other free router or firewall device templates that may be suitable include: ClearOS CE, IP Cop, IPFire, OpenWrt, Smoothwall Express, or VyOS.
+  - Virtual appliances image files for these device templates must be downloaded and imported separately.
+(Note: most of the other available firewall and router templates are for commercial VMs that require purchased licenses.)
