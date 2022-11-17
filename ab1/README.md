@@ -75,7 +75,7 @@ To download the webterm template, select "New template" from the file menu, and 
 You'll find it in the list of guest appliances.
   - No routing or security devices are pre-installed with GHS3 by default.
 To download a firewall device, select "New template" from the file menu, and choose to install from the GNS3 server.
-    - Recommend free firewall templates include: OPNsense or pfSense.
-    - Other free router or firewall device templates that may be suitable include: ClearOS CE, IPFire, OpenWrt, Smoothwall Express, or VyOS.
+    - Recommend free firewall template: pfSense.
+    - Other free router or firewall device templates that might be suitable include: ClearOS CE, OpenWrt, OPNsense, Smoothwall Express, or VyOS.
   - Virtual appliances image files for these device templates must be downloaded and imported separately.
 (Note: most of the other available firewall and router templates are for commercial VMs that require purchased licenses.)
