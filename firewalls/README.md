@@ -7,19 +7,23 @@ and enable Internet access for your DMZ and inside server VMs.
 - A Palo Alto PA-440 firewall, to enforce policies regarding Internet-facing network traffic,
 and a FortiNet FortiGate firewall "VDOM" (virtual domain) to enforce policies regarding secure-facing traffic.
 - Your team's network diagram, annotated with the following necessary data:
-  - Your outside zone's VLAN-id, network address/subnet mask, and your outside router's IP address.
-    - The IP address of yoru Internet-facing firewall's outside "dynamic-NAT" interface.
-    - The IP addresses of two public DNS servers of your choice.
+  - Your outside zone's
+VLAN-id, network address/subnet mask, and your outside router's IPv4 address.
+    - IPv4 address of your Internet-facing firewall's outside "dynamic-NAT" interface.
+    - IPv4 addresses of two publicly available DNS servers.
+*Examples: Cloudflare DNS (1.1.1.1, 1.0.0.1), Google DNS (8.8.8.8, 8.8.4.4), NeuStar Verisign (64.6.64.6, 64.6.65.6),
+<a href="https://www.allconnect.com/blog/best-free-dns-servers" target="_blank" ref="noopener">etc.</a>*
   - Your DMZ VLAN-id and network address/subnet mask.
-    - The IP address of your Internet-facing firewall's DMZ interface. (This will be your team's DMZ default gateway address.)
-    - The IP addresses of your DMZ Windows Server and Linux server VMs.
+    - IPv4 address of your Internet-facing firewall's DMZ interface. (This will be your team's DMZ default gateway address.)
+    - IPv4 addresses of your DMZ Windows Server and Linux server VMs.
+    - IPv4 address of your Internet-facing firewall's "interconnect" interface. (This will be a separate gateway toward your secure-facing firewall.)
   - Your inside zone's VLAN-id and network address/subnet mask.
-    - The IP address of your Internet-facing firewall's inside zone interface. (This will be your team's inside zone default gateway address.)
-    - The IP address of your secure-facing firewall's secure zone interface. (This will be a separate gateway from your inside zone toward your secure zone.)
-    - The IP addresses of your inside zone Windows Server and Linux server VMs.
+    - IPv4 address of your Internet-facing firewall's inside zone interface. (This will be your team's inside zone default gateway address.)
+    - IPv4 addresses of your inside zone Windows Server and Linux server VMs.
   - Your secure zone's VLAN-id and network address/subnet mask
-    - The IP address of your secure-facing firewall's secure zone interface. (This will be your team's secure zone default gateway address.)
-    - The IP addresses of your secure zone Windows Server and Linux server VMs.
+    - IPv4 address of your secure-facing firewall's "interconnect" interface. (This will be a separate gateway toward your Internet-facing firewall.)
+    - IPv4 address of your secure-facing firewall's secure zone interface. (This will be your team's secure zone default gateway address.)
+    - IPv4 addresses of your secure zone Windows Server and Linux server VMs.
 
 ## Requirements
 *Summary: configure admministrator accounts, sub-interfaces, routing, policy rules, and NAT funcitonality on your Internet facing firewall,
