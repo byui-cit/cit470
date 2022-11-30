@@ -25,6 +25,9 @@ VLAN-id, network address/subnet mask, and your outside router's IPv4 address.
     - IPv4 address of your secure-facing firewall's secure zone interface. (This will be your team's secure zone default gateway address.)
     - IPv4 addresses of your secure zone Windows Server and Linux server VMs.
 
+Your team's assigned VLAN IDs and public IPv4 addresses are listed
+<a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/28049411" target="_blank" ref="noopener">here</a>.
+
 ## Requirements
 *Summary: configure admministrator accounts, sub-interfaces, routing, policy rules, and NAT funcitonality on your Internet facing firewall,
 sufficient for your DMZ and inside servers to access the Internet and receive OS updates.
