@@ -40,7 +40,7 @@ so that you can remotely access and administer your servers across zone boundari
 - Manage your Internet-facing firewall using its OOB (out-of-band) management IP address. Log in with credentials provided by your instructor.
   - Configure a "Device Administrator" account for each team member. Then log out, and log in again with your own credentials.
   - Configure a new "virtual router" named T##-router. (Substitute your team's number for ## in the virtual router's name.)
-  - On your team's Internet-facing firewall, configure security zones named T##-outside, T##-dmz, T##-inside, and T##-interconnect. (Substitute your team's number for ## in the zone names.)
+  - On your team's Internet-facing firewall, configure security zones named T##-outside, T##-dmz, T##-inside, and T##-interconnect. (Substitute your team's number for ## in the zone names.) Select "layer3" for the type of each zone.
   - Configure four sub-interfaces, one for each of your team's outside, DMZ, inside, and interconnect zones.
 Place each sub-interface in your team's virtual router.
 Configure each sub-interface with its required 802.1q VLAN tag (layer-2 configuration),
