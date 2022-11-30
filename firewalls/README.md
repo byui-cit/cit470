@@ -4,8 +4,11 @@ with policies that let your server VMs communicate between security zones,
 and enable Internet access for your DMZ and inside server VMs.
 
 ## Tools
-- A Palo Alto PA-440 firewall, to enforce policies regarding Internet-facing network traffic,
+- A Palo Alto PA-200 firewall to enforce policies regarding Internet-facing network traffic,
 and a FortiNet FortiGate firewall "VDOM" (virtual domain) to enforce policies regarding secure-facing traffic.
+
+Your instructor will provide credentials for each team to access these firewalls.
+
 - Your team's network diagram, annotated with the following necessary data:
   - Your outside zone's
 VLAN-id, network address/subnet mask, and your outside router's IPv4 address.
@@ -34,14 +37,16 @@ sufficient for your DMZ and inside servers to access the Internet and receive OS
 Also, configure appropriate static routes and access policies on both firewalls,
 so that you can remotely access and administer your servers across zone boundaries.*
 
-- Manage your Internet-facing firewall using its OOB (out-of-band) management IP address.
-  - Configure an administrator account for each team member.
-  - On your team's Internet-facing firewall, configure security zones named outside, dmz, and inside.
-  - Configure three sub-interfaces, one for each of your team's outside, DMZ, and inside zones.
+- Manage your Internet-facing firewall using its OOB (out-of-band) management IP address. Log in with credentials provided by your instructor.
+  - Configure a "Device Administrator" account for each team member. Then log out, and log in again with your own credentials.
+  - Configure a new "virtual router" named T##-router. (Substitute your team's number for ## in the virtual router's name.)
+  - On your team's Internet-facing firewall, configure security zones named T##-outside, T##-dmz, T##-inside, and T##-interconnect. (Substitute your team's number for ## in the zone names.)
+  - Configure four sub-interfaces, one for each of your team's outside, DMZ, inside, and interconnect zones.
+Place each sub-interface in your team's virtual router.
 Configure each sub-interface with its required 802.1q VLAN tag (layer-2 configuration),
 and with its required IPv4 IP address and subnet mask (layer-3 configuration).
-  - Also, to assist with troubleshooting, configure each sub-interface so that it will respond to ICMP "pings" (echo requests).
-  - Configure a default route. (The "next hop" should be the outside router's IP address.)
+To assist with troubleshooting, configure each sub-interface with a management profile that lets it respond to ICMP "pings" (echo requests).
+  - Configure a default route. (The "next hop" should be your outside router's IP address.)
   - Configure an additional static route to your secure zone. (The "next hop" should be the secure-facing firewall's inside zone IP address.)
   - Configure a "dynamic NAT" policy that translates outbound connections from your DMZ and inside zones
 to the address of the outside interface.
@@ -51,11 +56,13 @@ to communicate with any host in the outside zone.
   - Configure a "DMZ-access" policy that allows hosts in your inside zone to use any application protocol to reach any host in your DMZ.
   - Configure "remote-admin" policies that allow hosts in your DMZ to use SSH or RDP to reach any host in your inside and secure zones.
     - To assist with troubleshooting, configure your firewall policies to log the beginning and end of each network connection.
-- Manage your secure-facing firewall "in-band," using the inside zone IP address already configured for you.
-  - Configure an administrator account for each team member.
-  - On your team's secure-facing firewall, configure another sub-interface for your team's secure zone,
+
+- Manage your secure-facing firewall "in-band," using the secure zone IP address already configured for you.
+Log in with credentials provided by your instructor.
+  - Configure an administrator account for each team member. Then log out, and log in again with your own credentials.
+  - On your team's secure-facing firewall, configure another sub-interface for your team's interconnect zone,
 configured with its required VLAN tag, IPv4 address/subnet mask, and also configured to respond to ICMP "pings" (echo requests).
-  - Configure a default route on the secure-facing firewall. (The "next hop" should be the inside zone address of your Internet-facing firewall.)
+  - Configure a default route on the secure-facing firewall. (The "next hop" should be the interconnect zone address of your Internet-facing firewall.)
   - Configure policies that allow hosts in your secure zone to use any application protocol to communicate with hosts in your DMZ and inside zone.
   - Configure policies that allow hosts in your inside zone to use SSH or RDP to communicate with hosts in your secure zone.
 - Verify that your DMZ and inside zone hosts can access the Internet and receive OS updates.
