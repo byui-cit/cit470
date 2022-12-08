@@ -21,7 +21,7 @@ It is also expensive, but BYU-Idaho students may obtain a copy of Visio software
   - click **[Download]** to download the installer and **[View Key]** to obtain your product license activation key.
 - <a href="https://www.yworks.com/products/yed" target="_blank" ref="noopener">yEd</a> (free download)
 - <a href="https://wiki.gnome.org/Apps/Dia" target="_blank" ref="noopener">Dia</a> (free download)
-- <a href="https://www.omnigroup.com/omnigraffle" target="_blank" ref="noopener">OmniGraffle</a> (This tool is for MacOS users only, and is expensive, but has wide use among IT Professionals.)
+- <a href="https://www.omnigroup.com/omnigraffle" target="_blank" ref="noopener">OmniGraffle</a> (This tool is for macOS users only, and is expensive, but has wide use among IT Professionals.)
 
 *(Not Recommended)* It is possible to make network diagrams using general purpose drawing tools such as
 Microsoft Paint, or Inkscape, or Adobe Illustrator, or GIMP, or the "Word Art" features in Microsoft Word/PowerPoint, or printing a Cisco Packet Tracer diagram.
