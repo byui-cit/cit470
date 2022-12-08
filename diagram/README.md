@@ -3,6 +3,8 @@ Create and maintain a professional-quality network diagram that documents your t
 
 ## Software Tools
 *(Recommended)* Here are some links to web-based applications students have successfully used to create their diagrams:
+- <a href="https://www.office.com/launch/visio" target="_blank" ref="noopener">Microsoft Office Visio</a>
+(sign in with your BYU-Idaho credentials to use the Visio web app)
 - <a href="https://cacoo.com/" target="_blank" ref="noopener">Cacoo</a>
 - <a href="https://www.lucidchart.com/pages" target="_blank" ref="noopener">Lucidchart</a>
 - <a href="https://app.diagrams.net/" target="_blank" ref="noopener">diagrams.net</a>
@@ -11,8 +13,9 @@ Create and maintain a professional-quality network diagram that documents your t
 - Microsoft Visio. This is the premier diagramming tool used by industry network and security professionals.
 It's a little challenging to learn, so Visio proficiency looks attractive on a job-seeker's résumé.
 It is also expensive, but BYU-Idaho students may obtain a copy of Visio software at no cost:
-  - visit <a href="https://azureforeducation.microsoft.com/devtools" target="_blank" ref="noopener">Microsoft Azure Dev Tools for Teaching</a>,
+  - visit <a href="https://portal.azure.com/" target="_blank" ref="noopener">Microsoft Azure</a>,
   - sign in with BYU-Idaho credentials,
+  - select "Explore" under "Access student benefits,"
   - select "Software" from the menu at the left of the Azure Education web page,
   - select one of the available editions of Visio Professional,
   - click **[Download]** to download the installer and **[View Key]** to obtain your product license activation key.
@@ -58,6 +61,9 @@ Here are some example diagram templates that were created using some of the tool
 with relevant information as the semester progresses, but you should already have the relevant
 information you need to fill in at least some of the details.)
 
+Example drawn using Microsoft Visio:
+![Visio example](CIT470-visio-x.png)
+
 Example drawn using Cacoo:
 ![Cacoo example](CIT470-cacoo-template.png)
 
@@ -66,6 +72,3 @@ Example drawn using diagrams.net:
 
 Example drawn using Lucidchart:
 ![Lucidchart example](CIT470-lucid-template.png)
-
-Example drawn using Microsoft Visio:
-![Visio example](CIT470-visio-x.png)
