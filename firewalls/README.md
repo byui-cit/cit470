@@ -82,4 +82,4 @@ Also upload your updated and annotated network diagram.
 Your team must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
 ## Example
-[Example will be loaded]
+<a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/30539777" target="_blank" ref="noopener">Initial PA-200 firewall configuration</a>
