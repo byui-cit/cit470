@@ -11,7 +11,7 @@ Your instructor will provide credentials for each team to access these firewalls
 
 - Your team's network diagram, annotated with the following necessary data:
   - Your outside zone's
-VLAN-id, network address/subnet mask, and your outside router's IPv4 address. **20220111 Update: our entire class section shares the same outside zone.**
+VLAN-id, network address/subnet mask, and your outside router's IPv4 address. **2022/01/11 Update: our entire class section shares the same outside zone.**
     - IPv4 address of your Internet-facing firewall's outside "dynamic-NAT" interface.
     - IPv4 addresses of two publicly available DNS servers.
 *Examples: Cloudflare DNS (1.1.1.1, 1.0.0.1), Google DNS (8.8.8.8, 8.8.4.4), NeuStar Verisign (64.6.64.6, 64.6.65.6),
