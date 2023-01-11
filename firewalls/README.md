@@ -11,7 +11,7 @@ Your instructor will provide credentials for each team to access these firewalls
 
 - Your team's network diagram, annotated with the following necessary data:
   - Your outside zone's
-VLAN-id, network address/subnet mask, and your outside router's IPv4 address.
+VLAN-id, network address/subnet mask, and your outside router's IPv4 address. **20220111 Update: our entire class section shares the same outside zone.**
     - IPv4 address of your Internet-facing firewall's outside "dynamic-NAT" interface.
     - IPv4 addresses of two publicly available DNS servers.
 *Examples: Cloudflare DNS (1.1.1.1, 1.0.0.1), Google DNS (8.8.8.8, 8.8.4.4), NeuStar Verisign (64.6.64.6, 64.6.65.6),
@@ -19,14 +19,15 @@ VLAN-id, network address/subnet mask, and your outside router's IPv4 address.
   - Your DMZ VLAN-id and network address/subnet mask.
     - IPv4 address of your Internet-facing firewall's DMZ interface. (This will be your team's DMZ default gateway address.)
     - IPv4 addresses of your DMZ Windows Server and Linux server VMs.
-    - IPv4 address of your Internet-facing firewall's "interconnect" interface. (This will be a separate gateway toward your secure-facing firewall.)
   - Your inside zone's VLAN-id and network address/subnet mask.
     - IPv4 address of your Internet-facing firewall's inside zone interface. (This will be your team's inside zone default gateway address.)
     - IPv4 addresses of your inside zone Windows Server and Linux server VMs.
   - Your secure zone's VLAN-id and network address/subnet mask
-    - IPv4 address of your secure-facing firewall's "interconnect" interface. (This will be a separate gateway toward your Internet-facing firewall.)
     - IPv4 address of your secure-facing firewall's secure zone interface. (This will be your team's secure zone default gateway address.)
     - IPv4 addresses of your secure zone Windows Server and Linux server VMs.
+  - Your interconnect zone's VLAN-id and network address/subnet mask
+    - IPv4 address of your Internet-facing firewall's "interconnect" interface. (This will be a separate gateway toward your secure-facing firewall.)
+    - IPv4 address of your secure-facing firewall's "interconnect" interface. (This will be the corresponding gateway toward your Internet-facing firewall.)
 
 Your team's assigned VLAN IDs and public IPv4 addresses are listed
 <a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/28049411" target="_blank" ref="noopener">here</a>.
