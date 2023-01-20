@@ -31,24 +31,24 @@ Microsoft OneDrive or Google Drive,
 and shared to all team members, so that all can access it with their own copy of KeePass software.)
 
 In each of your zones (secure,inside,DMZ) deploy a Windows Server and a Linux server, for a total of six servers.
-*(This is a good starting point, but you may need to deploy additional servers in future assignments)*
+(This is a good starting point, but you may need to deploy additional servers in future assignments.)
 
 Choose an appropriate password for the Administrator or root account on each server.
-*(Of course, don't use a weak easily-guessable password like "password" or "123456."
+(Of course, don't use a weak, easily-guessable password like "password" or "123456."
 On the other hand, do not use an overly complicated or lengthy random password either,
 because sometimes you will not be able to merely copy/paste a password from your team's shared password manager,
 but instead you will be forced to carefully type it successfully in order to log in or gain elevated privileges on a server.
-Find an appropriate balance between security and convenience in your password selections.)*
+Find an appropriate balance between security and convenience in your password selections.)
 Create additional accounts capable of administrator/root privilege on each server:
 one for each team member, and another for your instructor.
 (You'll need to find a secure way to inform your instructor of that account's initial password.)
-Make sure every team member can successfully log into *and* exercise administrator privilege on all six VMs.
+Make sure every team member can successfully log into and exercise administrator privilege on all six VMs.
 
 Find the private network address ranges assigned to your team's zones,
 and configure the virtual network interface of each VM with an appropriate **static** IP address.
 (*None* of these six servers should be configured to obtain an address via DHCP.)
 Verify that each pair of servers in each zone can ping each other.
-(*Hint:* a Windows Server will not respond to ICMP echo request "pings" by default.
+(Hint: a Windows Server will not respond to ICMP echo request "pings" by default.
 You will need to enable an inbound rule in Windows Defender Firewall with Advanced Security to let this happen.)
 
 Make sure each server is renamed to match its VM name, according to your team's machine naming convention.
@@ -72,8 +72,8 @@ Here are some very detailed illustrated "how-to" tutorials that should help you 
 - <a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/24739841" target="_blank" ref="noopener">How to deploy an Ubuntu Linux server VM</a>
 - <a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/24772609" target="_blank" ref="noopener">How to deploy a Windows Server 2022 VM</a>
 
-Your team's delivered tutorial should be *much shorter* than these how-to articles! Nevertheless:
-- It should show *evidence* that all of the task requirements are satisfied.
+Your team's delivered tutorial should be much shorter than these how-to articles!
+- It should show evidence that all of the task requirements are satisfied.
 - A fellow student should be able to read, understand, and follow your tutorial to achieve the same results.
 - Cite (or just link to) useful Internet articles your team found that helped you complete this task.
 - Don't write too much content that just describes ordinary details.
