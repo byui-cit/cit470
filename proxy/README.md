@@ -34,5 +34,5 @@ Upload an illustrated tutorial, in which you explain what your team did and how 
 Your team must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
 ## Hints
-- <a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/37126145" target="_blank" ref="noopener">Example deployments of a DNS proxy service</a>
+- <a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/37126145" target="_blank" ref="noopener">Example deployments of DNS proxy services</a>
 - <a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/37388405" target="_blank" ref="noopener">Example deployment of a web proxy service</a>
