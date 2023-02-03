@@ -53,7 +53,7 @@ and with its required IPv4 IP address and subnet mask (layer-3 configuration).
 To assist with troubleshooting, configure each sub-interface with a management profile that lets it respond to ICMP "pings" (echo requests).
   - ~~Configure a default route. (The "next hop" should be your outside router's IP address.)~~
 **2022/01/11 Update: The default route is already preconfigured for the shared outside zone.**
-  - Configure an additional static route to your secure zone. (The "next hop" should be the secure-facing firewall's inside zone IP address.)
+  - Configure an additional static route to your secure zone. (The "next hop" should be the secure-facing firewall's ~~inside~~ interconnect zone IP address.)
   - Configure a "dynamic NAT" policy that translates outbound connections from your DMZ and inside zones
 to the address of the outside interface.
   - Configure a "restrict-secure" policy that allows hosts in your secure zone to communicate with DMZ or inside hosts,
