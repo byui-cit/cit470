@@ -66,7 +66,12 @@ Upload an illustrated tutorial, in which you explain what your team did and how 
 - If your tutorial satisfies every requirement outlined above, you will earn a passing score (one point).
 - If your tutorial does not satisfy any one of the above requirements, you will earn no points. Your team must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
-## Hints
+## Examples and Hints
+Examples:
+- <a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/38273057" target="_blank" ref="noopener">Example deployment of MariaDB database server</a>
+- <a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/38567937" target="_blank" ref="noopener">Example deployment of Apache web server and PHP</a>
+- <a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/42205185" target="_blank" ref="noopener">Example deployment of Question2Answer</a>
+Hints:
 - All components for this app can be successfully installed and operated on either Linux or Windows servers;
 the hints below assume installation on Linux.
 - After your database first starts up, it's considered best practice to execute
