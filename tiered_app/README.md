@@ -68,9 +68,12 @@ Upload an illustrated tutorial, in which you explain what your team did and how 
 
 ## Examples and Hints
 Examples:
+(Phase I)
 - <a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/38273057" target="_blank" ref="noopener">Example deployment of MariaDB database server</a>
 - <a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/38567937" target="_blank" ref="noopener">Example deployment of Apache web server and PHP</a>
 - <a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/42205185" target="_blank" ref="noopener">Example deployment of Question2Answer</a>
+(Phase II)
+- Coming soon...
 Hints:
 - All components for this app can be successfully installed and operated on either Linux or Windows servers;
 the hints below assume installation on Linux.
