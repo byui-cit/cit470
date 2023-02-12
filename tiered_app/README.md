@@ -75,7 +75,7 @@ Examples:
 - <a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/42205185" target="_blank" ref="noopener">Example deployment of Question2Answer</a>
 
 (Phase II)
-- Coming soon...
+- <a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/42762241" target="_blank" ref="noopener">Example deployment of HAProxy</a>
 
 Hints:
 - All components for this app can be successfully installed and operated on either Linux or Windows servers;
