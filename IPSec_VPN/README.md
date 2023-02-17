@@ -39,4 +39,4 @@ Upload an illustrated tutorial, in which you explain what your team did and how 
 - If your tutorial does not satisfy any one of the above requirements, you will earn no points. Your team must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
 ## Hints
-@@@ [Hints will be added by the Course Lead]
+<a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/43745281" target="_blank" ref="noopener">Example Site-to-Site VPN deployment</a>
