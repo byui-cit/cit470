@@ -19,3 +19,6 @@ Upload an illustrated tutorial, in which you explain what your team did and how 
 ## Scoring Rubric
 - If your tutorial satisfies every requirement outlined above, you will earn a passing score (one point).
 - If your tutorial does not satisfy any one of the above requirements, you will earn no points. Your team must then address any deficiencies and re-upload corrected documents until you earn the passing score.
+
+## Example
+- <a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/46989313" target="_blank" ref="noopener">Example Remote Access SSL/TLS VPN deployment</a>
