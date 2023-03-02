@@ -25,6 +25,9 @@ Upload an illustrated tutorial, in which you explain what your team did and how 
 - If your tutorial satisfies every requirement outlined above, you will earn a passing score (one point).
 - If your tutorial does not satisfy any one of the above requirements, you will earn no points. Your team must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
+## Example
+<a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/47906817" target="_blank" ref="noopener">Example Security Onion / Suricata sensor</a>
+
 ## Hints
 These hints assume you will follow the recommendation to deploy a Security Onion VM.
 - Spend some time studying the <a href="https://docs.securityonion.net/" target="_blank" ref="noopener">Security Onion documentation</a>.
