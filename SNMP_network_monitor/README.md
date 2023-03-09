@@ -23,6 +23,9 @@ Upload an illustrated tutorial, in which you explain what your team did and how 
 - If your tutorial satisfies every requirement outlined above, you will earn a passing score (one point).
 - If your tutorial does not satisfy any one of the above requirements, you will earn no points. Your team must then address any deficiencies and re-upload corrected documents until you earn the passing score.
 
+## Example
+<a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/48594954/" target="_blank" ref="noopener">Example SNMP network monitor using Zabbix</a>
+
 ## Hints
 - By default, most firewalls communicate SNMP through a management interface.
 However, your SNMP poller will be in your **secure** zone,
