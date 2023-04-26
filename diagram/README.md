@@ -47,6 +47,9 @@ Your firewalls will enforce network security policies for various endpoint machi
   - *Layer 3 information: IP addresses, subnet masks, and network identifiers*
   - *Layer 4 information: port numbers*
   - *Layer 7 information: application identifiers*
+  - Some of these numbers and addresses are up to you to choose, together with your team partner.
+Others are pre-assigned. You can find a table here showing the pre-assigned VLAN tags, IP addresses, subnet masks, and network identifiers:
+<a href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/28049411" target="_blank" ref="noopener">CIT 470 assigned VLANs & IPv4 addresses</a>
 
 ## Deliverable
 Upload an image, in either PDF or PNG file format, of your completed diagram.
