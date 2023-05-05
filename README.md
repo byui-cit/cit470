@@ -13,6 +13,7 @@ Select each link below to view requirements for each Team Task and for each Abov
 - <a href="diagram/" target="_blank" ref="noopener">Individual Task: Diagram</a>
 - <a href="server_vms/" target="_blank" ref="noopener">Team Task: Server VMs</a>
 - <a href="firewalls/" target="_blank" ref="noopener">Team Task: Firewalls</a>
+  - <a href="ab0/" target="_blank" ref="noopener">Above & Beyond Opportunity 0</a>
   - <a href="ab1/" target="_blank" ref="noopener">Above & Beyond Opportunity 1</a>
   - <a href="ab2/" target="_blank" ref="noopener">Above & Beyond Opportunity 2</a>
 - <a href="peer_eval/" target="_blank" ref="noopener">Peer Evaluation 1</a> (Teamwork "soft skills" checkpoint)
@@ -47,3 +48,4 @@ Select each link below to view requirements for each Team Task and for each Abov
 
 - <a href="pentest/" target="_blank" ref="noopener">Team Task: Penetration Testing Exercise</a>
   - <a href="ab8/" target="_blank" ref="noopener">Above & Beyond Opportunity 8</a>
+  - <a href="ab9/" target="_blank" ref="noopener">Above & Beyond Opportunity 9</a>
