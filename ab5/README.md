@@ -49,4 +49,4 @@ and that you configure your secure-facing firewall and your RADIUS server to use
 In general, RADIUS servers don't differentiate between authentication ("AuthN") and authorization ("AuthZ").
 As far as RADIUS is concerned, a successful username/password both authenticates and authorizes.
 It's up to the RADIUS **client** (in this case, the Internet-facing firewall)
-to determine whether a properly authenticated user is authorized to use a service (in this case, the Remote-Access VPN service.*
+to determine whether a properly authenticated user is authorized to use a service (in this case, the Remote-Access VPN service).*
