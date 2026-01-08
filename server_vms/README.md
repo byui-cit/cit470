@@ -2,25 +2,25 @@
 Work with your team to deploy and apply an initial configuration to six virtual servers.
 
 ## Tools
-<a href="/cit470/courseinfo/vSphere" target="_blank" ref="noopener">CIT department VMware infrastructure</a>
+<a href="/cit470/courseinfo/OpenShift" target="_blank" ref="noopener">CSE department OpenShift infrastructure</a>
 
 ## Requirements
 Agree with your team partner(s) on a naming convention for your servers.
-- All of your team's VM names should start with T##, where ## is your team's assigned number.
+- All of your team's VM names should start with t##, where ## is your team's assigned number.
 - you might choose a token that identifies a server's OS, such as:
-  - "WS" or "Windows" for a Windows Server
-  - "UL" or "Ubuntu" for an Ubuntu Linux server
+  - "ws" or "windows" for a Windows Server
+  - "ul" or "ubuntu" for an Ubuntu Linux server
 - you might choose a token that identifies the zone in which the server resides, such as:
-  - "D" or "dmz" for a server in the DMZ
-  - "S" or "secure" for a server in the secure zone
+  - "d" or "dmz" for a server in the DMZ
+  - "s" or "secure" for a server in the secure zone
 - Examples (combining all of the above):
   - a Windows Server in Team 12's inside zone might be named something like:
-    - T12-inside-windows
-    - T12-WS-I
+    - t12-inside-windows
+    - t12-ws-i
     - (depending on the team's chosen naming convention).
   - An AlmaLinux server in Team 11's DMZ earmarked for load balancing duty might be named something like:
-    - T11-D-AL2
-    - T11-alma-dmz-loadbal
+    - t11-d-al2
+    - t11-alma-dmz-loadbal
     - (depending on the team's chosen naming convention).
 
 Agree with your team partner(s) on a secure way to share service account passwords with each other.
