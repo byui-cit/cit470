@@ -2,27 +2,24 @@
 ## Tools: CIT department VPN and VMware infrastructure
 
 While enrolled in selected courses,
-students manage virtual machines in a private VMware infrastructure operated by BYU-Idaho's CIT department.
+students manage virtual machines in a private OpenShift infrastructure operated by BYU-Idaho's CSE department.
 Our infrastructure consists of clusters of enterprise-grade server hardware,
-integrated with the following VMware products:
-- ESXi hypervisor software
-- vCenter server software
-- vSphere management software
+integrated with Redhat products.
 
-As a CIT 470 student, you will use vSphere to create and operate virtual servers.
+As a CYBER 470 student, you will use OpenShift to create and operate virtual servers.
 
 ### Required: Use GlobalProtect software to engage a VPN connection ###
 VPN connection instructions:
 <a
 href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/16351237/" target="_blank" ref="noopener">How to Install VPN Client for CIT Firewall</a>
 
-### Required: Sign into CIT vSphere ###
-*Note: vSphere runs on a privately addressed server, so it is only available **after** you successfully engage your VPN conneciton.*
+### Required: Sign into CSE OpenShift ###
+*Note: OpenShift runs on a privately addressed server, so it is only available **after** you successfully engage your VPN conneciton.*
 
-After connecting to the department's VPN service using GlobalProtect, use your BYU-I credentials to log into vSphere:
-<a href="https://vctr.c.cit.byui.edu/ui/" target="_blank" ref="noopener">https://vctr.c.cit.byui.edu/ui/</a>
+After connecting to the department's VPN service using GlobalProtect, use your BYU-I credentials to log into OpenShift:
+<a href="[https://vctr.c.cit.byui.edu/ui/](https://oauth-openshift.apps.byui-cit.c.cit.byui.edu/oauth/authorize?client_id=console&redirect_uri=https%3A%2F%2Fconsole-openshift-console.apps.byui-cit.c.cit.byui.edu%2Fauth%2Fcallback&response_type=code&scope=user%3Afull&state=cf2ac3d1fe1340d1bb0cb0860574f5fd)" target="_blank" ref="noopener">[https://vctr.c.cit.byui.edu/ui/](https://oauth-openshift.apps.byui-cit.c.cit.byui.edu/oauth/authorize?client_id=console&redirect_uri=https%3A%2F%2Fconsole-openshift-console.apps.byui-cit.c.cit.byui.edu%2Fauth%2Fcallback&response_type=code&scope=user%3Afull&state=cf2ac3d1fe1340d1bb0cb0860574f5fd)</a>
 
-## Quick tour of the CIT VMware Infrastructure, using the vSphere web interface ##
+## Quick tour of the CSE OpenShift Infrastructure, using the web interface ##
 
 From the 'hamburger' ( ≡ ) menu, select *Inventory*:
 
