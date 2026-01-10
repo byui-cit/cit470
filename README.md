@@ -1,5 +1,7 @@
 # Systems Security II
+
 ## Semester Project Tasks
+
 ### "Table of Contents"
 
 Outlined here are the course modules (or "course units"),
@@ -10,6 +12,7 @@ Select each link below to view requirements for each Team Task and for each Abov
 ## Outcomes (Course Units)
 
 ### (Module 01) Architecture: Security Zones and Perimiter Devices, a.k.a. Network Segmentation
+
 - <a href="diagram/" target="_blank" ref="noopener">Individual Task: Diagram</a>
 - <a href="server_vms/" target="_blank" ref="noopener">Team Task: Server VMs</a>
 - <a href="firewalls/" target="_blank" ref="noopener">Team Task: Firewalls</a>
