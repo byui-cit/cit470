@@ -84,14 +84,14 @@ with relevant information as the semester progresses, but you should already hav
 information you need to fill in at least some of the details.)
 
 Example drawn using Microsoft Visio:
-!\[Visio example](CIT470-visio-x.png)
+![Visio example](CIT470-visio-x.png)
 
 Example drawn using Cacoo:
-!\[Cacoo example](CIT470-cacoo-template.png)
+![Cacoo example](CIT470-cacoo-template.png)
 
 Example drawn using diagrams.net:
-!\[diagrams.net example](CIT470-drawio-template.png)
+![diagrams.net example](CIT470-drawio-template.png)
 
 Example drawn using Lucidchart:
-!\[Lucidchart example](CIT470-lucid-template.png)
+![Lucidchart example](CIT470-lucid-template.png)
 
