@@ -17,5 +17,4 @@ href="https://byui-cit.atlassian.net/wiki/spaces/CDI/pages/16351237/" target="_b
 *Note: OpenShift runs on a privately addressed server, so it is only available **after** you successfully engage your VPN conneciton.*
 
 After connecting to the department's VPN service using GlobalProtect, use your BYU-I credentials to log into OpenShift:
-<a href="https://oauth-openshift.apps.byui-cit.c.cit.byui.edu/oauth/authorize?client_id=console&redirect_uri=https%3A%2F%2Fconsole-openshift-console.apps.byui-cit.c.cit.byui.edu%2Fauth%2Fcallback&response_type=code&scope=user%3Afull&state=cf2ac3d1fe1340d1bb0cb0860574f5fd" target="_blank" ref="noopener">https://oauth-openshift.apps.byui-cit.c.cit.byui.edu/oauth/authorize?client_id=console&redirect_uri=https%3A%2F%2Fconsole-openshift-console.apps.byui-cit.c.cit.byui.edu%2Fauth%2Fcallback&response_type=code&scope=user%3Afull&state=cf2ac3d1fe1340d1bb0cb0860574f5fd</a>
-
+<a href="https://console-openshift-console.apps.byui-cit.c.cit.byui.edu/" target="_blank" ref="noopener">https://console-openshift-console.apps.byui-cit.c.cit.byui.edu/</a>
