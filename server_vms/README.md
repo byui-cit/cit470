@@ -2,7 +2,7 @@
 Work with your team to deploy and apply an initial configuration to six virtual servers.
 
 ## Tools
-<a href="/cit470/courseinfo/OpenShift" target="_blank" ref="noopener">CSE department OpenShift infrastructure</a>
+<a href="/cit470/courseinfo/proxmox" target="_blank" ref="noopener">CSE department Proxmox infrastructure</a>
 
 ## Requirements
 Agree with your team partner(s) on a naming convention for your servers.
