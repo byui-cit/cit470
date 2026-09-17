@@ -4,7 +4,7 @@ Deploy an extra proxy server, using a different technology than you used for you
 redo that milestone, but instead deploy *unbound* and *squid* on a Linux server.
 
 ## Tools
-CIT VMware infrastructure
+CSE Proxmox VM Infrastructure
 
 ## Requirements
 If necessary, prepare (create or clone) an additional VM to run your new proxy services.
