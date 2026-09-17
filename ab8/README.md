@@ -1,24 +1,23 @@
 ## Task: Above-and-Beyond 8
 
+## Description
+- As an individual, pick a security tool from the Kali Linux toolbox. Learn about it and do a small demonstration showing it's capabilities. 
+
 ## Tools
-- Same as those revealed in the <a href="cit470/pentest" target="_blank" ref="noopener">Penetration Testing Exercise</a>.
+- Various.
+  - The toolset includes various "attack" software packages sourced in the <a href="https://www.kali.org/" target="_blank" ref="noopener">Kali Linux</a> distribution. Create a Virtual Machine in your team's DMZ and demonstrate some of its capabilities.
+  - There might be other freely-available Internet-based tools that could be helpful. Kali Linux is just one option.
 
 ## Requirements
-- After you and your team have accomplished *one* of the objectives that satisfies the Penetration Testing Exercise,
-you may continue working, either individually or with other classmates, to accomplish *any of the other* Penetration Testing Exercise objectives.
+- After you and your team have picked, researched, and demonstrated a security tool's usage and capabilities, as an individual... you can pick a different tool and do the same.
 - Produce another illustrated tutorial that shows how you achieved your additional objective.
-(If you worked together with other classmates on this above-and-beyond task, each of you must write your own report.)
 
 ## Deliverable
-Upload an illustrated tutorial, in which you explain what you did and how you accomplished it.
-- Your document should be clear enough that one of your peers would be able to follow your instructions and accomplish the same tasks.
+Upload an illustrated tutorial, in which you explain what you did and how the tool works.
+- Your document should be clear enough that one of your peers would be able to follow your instructions and reproduce the same usage and demonstration you accomplished.
 - Identify any difficult or challenging parts of the project, and clearly explain how you diagnosed and overcame your obstacles.
 - Include a few cropped screen captures where appropriate.
 
 ## Scoring Rubric
 - If your tutorial satisfies every requirement outlined above, you will earn a passing score (one point).
 - If your tutorial does not satisfy any one of the above requirements, you will earn no points. Your team must then address any deficiencies and re-upload corrected documents until you earn the passing score.
-
-## Hints
-- Complete your first objective in the Penetration Testing Exercise *before* you "go above and beyond" to tackle another objective.
-- The same hints, for the <a href="cit470/pentest" target="_blank" ref="noopener">Penetration Testing Exercise</a> team task, also apply to this individual above-and-beyond task.
