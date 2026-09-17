@@ -47,8 +47,8 @@ Select each link below to view requirements for each Team Task and for each Abov
   - <a href="ab7/" target="_blank" ref="noopener">Above & Beyond Opportunity 7</a>
 - <a href="peer_eval/" target="_blank" ref="noopener">Peer Evaluation 3</a> (Teamwork "soft skills" checkpoint)
 
-### (Module 06) PTES: Vulnerabilities, Exploits
+### (Module 06) PTEST Tools: Research & Demonstrate
 
-- <a href="pentest/" target="_blank" ref="noopener">Team Task: Penetration Testing Exercise</a>
+- <a href="pentest/" target="_blank" ref="noopener">Team Task: Penetration Tool Exploration</a>
   - <a href="ab8/" target="_blank" ref="noopener">Above & Beyond Opportunity 8</a>
   - <a href="ab9/" target="_blank" ref="noopener">Above & Beyond Opportunity 9</a>
